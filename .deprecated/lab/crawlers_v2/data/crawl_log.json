@@ -1,0 +1,249 @@
+{
+  "start_time": "2025-12-17T23:57:05.492860",
+  "queries": [
+    {
+      "query": "서울 스페셜티 커피",
+      "found": 10,
+      "added": 9
+    },
+    {
+      "query": "서울 로스터리 카페",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "서울 핸드드립 맛집",
+      "found": 10,
+      "added": 10
+    },
+    {
+      "query": "서울 필터커피",
+      "found": 10,
+      "added": 8
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "found": 10,
+      "added": 8
+    },
+    {
+      "query": "강남 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "역삼 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "압구정 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "청담 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "신사동 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "서초 스페셜티 커피",
+      "found": 10,
+      "added": 9
+    },
+    {
+      "query": "서초 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "양재 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "반포 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "송파 스페셜티 커피",
+      "found": 10,
+      "added": 9
+    },
+    {
+      "query": "송파 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "잠실 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "석촌호수 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "마포 스페셜티 커피",
+      "found": 10,
+      "added": 8
+    },
+    {
+      "query": "합정 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "망원 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "연남동 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "홍대 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "상수 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "용산 스페셜티 커피",
+      "found": 10,
+      "added": 9
+    },
+    {
+      "query": "용산 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "이태원 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "한남동 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "종로 스페셜티 커피",
+      "found": 10,
+      "added": 8
+    },
+    {
+      "query": "종로 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "익선동 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "서촌 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "북촌 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "을지로 스페셜티 커피",
+      "found": 10,
+      "added": 6
+    },
+    {
+      "query": "중구 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "서대문구 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "연희동 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "성수 스페셜티 커피",
+      "found": 10,
+      "added": 9
+    },
+    {
+      "query": "성수 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "뚝섬 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "서울숲 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "영등포 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "문래 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "여의도 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "관악구 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "샤로수길 로스터리",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "성북구 스페셜티",
+      "found": 0,
+      "added": 0
+    },
+    {
+      "query": "성신여대 로스터리",
+      "found": 0,
+      "added": 0
+    }
+  ],
+  "errors": [],
+  "end_time": "2025-12-18T00:29:08.439873",
+  "total_stores": 93,
+  "total_menus": 87
+}

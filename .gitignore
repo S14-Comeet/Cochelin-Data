@@ -251,4 +251,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,windows
+# End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,windows\n# Data & Large Files\n소상공인시장진흥공단_*.csv

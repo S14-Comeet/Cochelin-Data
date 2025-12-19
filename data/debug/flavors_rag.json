@@ -1,0 +1,950 @@
+{
+  "_description": "SCA Coffee Flavor Wheel 기반 향미 데이터 (RAG용). 자식 flavor 선택 시 부모는 자동 포함되므로 가장 구체적인 레벨만 선택할 것.",
+  "_usage": "원두 설명에서 향미 키워드를 찾아 해당 flavor_id를 반환. keywords 필드의 단어가 매칭되면 해당 id 사용.",
+
+  "flavors": [
+    {
+      "id": 1,
+      "code": "FRUITY",
+      "name": "과일향",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["fruity", "fruit", "과일"],
+      "children": [101, 102, 103, 104]
+    },
+    {
+      "id": 2,
+      "code": "SOUR_FERMENTED",
+      "name": "발효/신맛",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["sour", "fermented", "발효", "신맛"],
+      "children": [201, 202]
+    },
+    {
+      "id": 3,
+      "code": "GREEN_VEGETATIVE",
+      "name": "녹색/채소향",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["green", "vegetative", "vegetal", "채소", "풀"],
+      "children": [301, 302, 303, 304]
+    },
+    {
+      "id": 4,
+      "code": "OTHER",
+      "name": "기타",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["papery", "chemical", "기타"],
+      "children": [401, 402]
+    },
+    {
+      "id": 5,
+      "code": "ROASTED",
+      "name": "로스팅향",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["roasted", "roast", "로스팅", "구수한"],
+      "children": [501, 502, 503, 504]
+    },
+    {
+      "id": 6,
+      "code": "SPICES",
+      "name": "향신료",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["spice", "spicy", "향신료"],
+      "children": [601, 602, 603]
+    },
+    {
+      "id": 7,
+      "code": "NUTTY_COCOA",
+      "name": "견과/코코아",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["nutty", "cocoa", "견과류", "코코아"],
+      "children": [701, 702]
+    },
+    {
+      "id": 8,
+      "code": "SWEET",
+      "name": "단맛",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["sweet", "단맛", "달콤"],
+      "children": [801, 802, 803, 804, 805]
+    },
+    {
+      "id": 9,
+      "code": "FLORAL",
+      "name": "꽃향",
+      "level": 1,
+      "parent_id": null,
+      "keywords": ["floral", "flower", "꽃향", "플로럴"],
+      "children": [901, 902]
+    },
+
+    {
+      "id": 101,
+      "code": "BERRY",
+      "name": "베리류",
+      "level": 2,
+      "parent_id": 1,
+      "keywords": ["berry", "베리"],
+      "children": [10101, 10102, 10103, 10104]
+    },
+    {
+      "id": 102,
+      "code": "DRIED_FRUIT",
+      "name": "건과일",
+      "level": 2,
+      "parent_id": 1,
+      "keywords": ["dried fruit", "건과일", "말린 과일"],
+      "children": [10201, 10202]
+    },
+    {
+      "id": 103,
+      "code": "OTHER_FRUIT",
+      "name": "기타 과일",
+      "level": 2,
+      "parent_id": 1,
+      "keywords": ["tropical", "stone fruit", "열대과일"],
+      "children": [10301, 10302, 10303, 10304, 10305, 10306, 10307, 10308]
+    },
+    {
+      "id": 104,
+      "code": "CITRUS_FRUIT",
+      "name": "감귤류",
+      "level": 2,
+      "parent_id": 1,
+      "keywords": ["citrus", "감귤", "시트러스"],
+      "children": [10401, 10402, 10403, 10404]
+    },
+    {
+      "id": 201,
+      "code": "SOUR",
+      "name": "신맛",
+      "level": 2,
+      "parent_id": 2,
+      "keywords": ["sour", "acidic", "acidity", "신맛", "산미"],
+      "children": [20101, 20102, 20103, 20104, 20105, 20106]
+    },
+    {
+      "id": 202,
+      "code": "ALCOHOL_FERMENTED",
+      "name": "알코올/발효",
+      "level": 2,
+      "parent_id": 2,
+      "keywords": ["alcohol", "wine", "whiskey", "fermented", "와인", "발효"],
+      "children": [20201, 20202, 20203, 20204]
+    },
+    {
+      "id": 301,
+      "code": "OLIVE_OIL",
+      "name": "올리브 오일",
+      "level": 2,
+      "parent_id": 3,
+      "keywords": ["olive", "oil", "올리브"],
+      "children": []
+    },
+    {
+      "id": 302,
+      "code": "RAW",
+      "name": "날것",
+      "level": 2,
+      "parent_id": 3,
+      "keywords": ["raw", "unripe", "날것"],
+      "children": [30201, 30202]
+    },
+    {
+      "id": 303,
+      "code": "GREEN_VEGETATIVE_SUB",
+      "name": "채소향",
+      "level": 2,
+      "parent_id": 3,
+      "keywords": ["vegetable", "herb", "herbal", "허브", "채소"],
+      "children": [30301, 30302, 30303, 30304, 30305]
+    },
+    {
+      "id": 304,
+      "code": "BEANY",
+      "name": "콩 향",
+      "level": 2,
+      "parent_id": 3,
+      "keywords": ["beany", "bean", "콩"],
+      "children": []
+    },
+    {
+      "id": 401,
+      "code": "PAPERY_MUSTY",
+      "name": "종이/곰팡이",
+      "level": 2,
+      "parent_id": 4,
+      "keywords": ["papery", "musty", "earthy", "woody", "종이", "곰팡이", "흙"],
+      "children": [40101, 40102, 40103, 40104, 40105, 40106, 40107, 40108]
+    },
+    {
+      "id": 402,
+      "code": "CHEMICAL",
+      "name": "화학적",
+      "level": 2,
+      "parent_id": 4,
+      "keywords": ["chemical", "bitter", "medicinal", "화학적", "쓴맛"],
+      "children": [40201, 40202, 40203, 40204, 40205, 40206]
+    },
+    {
+      "id": 501,
+      "code": "PIPE_TOBACCO",
+      "name": "파이프 담배",
+      "level": 2,
+      "parent_id": 5,
+      "keywords": ["pipe tobacco", "파이프"],
+      "children": []
+    },
+    {
+      "id": 502,
+      "code": "TOBACCO",
+      "name": "담배",
+      "level": 2,
+      "parent_id": 5,
+      "keywords": ["tobacco", "담배"],
+      "children": []
+    },
+    {
+      "id": 503,
+      "code": "BURNT",
+      "name": "탄",
+      "level": 2,
+      "parent_id": 5,
+      "keywords": ["burnt", "smoky", "ashy", "탄", "스모키", "연기"],
+      "children": [50301, 50302, 50303, 50304]
+    },
+    {
+      "id": 504,
+      "code": "CEREAL",
+      "name": "시리얼",
+      "level": 2,
+      "parent_id": 5,
+      "keywords": ["cereal", "grain", "malt", "시리얼", "곡물", "맥아"],
+      "children": [50401, 50402]
+    },
+    {
+      "id": 601,
+      "code": "PUNGENT",
+      "name": "자극적",
+      "level": 2,
+      "parent_id": 6,
+      "keywords": ["pungent", "자극적"],
+      "children": []
+    },
+    {
+      "id": 602,
+      "code": "PEPPER",
+      "name": "후추",
+      "level": 2,
+      "parent_id": 6,
+      "keywords": ["pepper", "후추"],
+      "children": []
+    },
+    {
+      "id": 603,
+      "code": "BROWN_SPICE",
+      "name": "갈색 향신료",
+      "level": 2,
+      "parent_id": 6,
+      "keywords": ["cinnamon", "clove", "nutmeg", "시나몬", "정향", "육두구"],
+      "children": [60301, 60302, 60303, 60304]
+    },
+    {
+      "id": 701,
+      "code": "NUTTY",
+      "name": "견과류",
+      "level": 2,
+      "parent_id": 7,
+      "keywords": ["nutty", "nut", "nuts", "견과류", "고소한"],
+      "children": [70101, 70102, 70103]
+    },
+    {
+      "id": 702,
+      "code": "COCOA",
+      "name": "코코아",
+      "level": 2,
+      "parent_id": 7,
+      "keywords": ["cocoa", "chocolate", "cacao", "코코아", "초콜릿", "카카오"],
+      "children": [70201, 70202]
+    },
+    {
+      "id": 801,
+      "code": "BROWN_SUGAR",
+      "name": "흑설탕",
+      "level": 2,
+      "parent_id": 8,
+      "keywords": ["brown sugar", "molasses", "caramel", "honey", "maple", "흑설탕", "당밀", "캐러멜", "꿀", "메이플"],
+      "children": [80101, 80102, 80103, 80104]
+    },
+    {
+      "id": 802,
+      "code": "VANILLA",
+      "name": "바닐라",
+      "level": 2,
+      "parent_id": 8,
+      "keywords": ["vanilla", "바닐라"],
+      "children": []
+    },
+    {
+      "id": 803,
+      "code": "VANILLIN",
+      "name": "바닐린",
+      "level": 2,
+      "parent_id": 8,
+      "keywords": ["vanillin", "바닐린"],
+      "children": []
+    },
+    {
+      "id": 804,
+      "code": "OVERALL_SWEET",
+      "name": "전반적 단맛",
+      "level": 2,
+      "parent_id": 8,
+      "keywords": ["sweet", "sweetness", "단맛"],
+      "children": []
+    },
+    {
+      "id": 805,
+      "code": "SWEET_AROMATICS",
+      "name": "달콤한 향",
+      "level": 2,
+      "parent_id": 8,
+      "keywords": ["sweet aromatics", "달콤한 향"],
+      "children": []
+    },
+    {
+      "id": 901,
+      "code": "BLACK_TEA",
+      "name": "홍차",
+      "level": 2,
+      "parent_id": 9,
+      "keywords": ["black tea", "tea", "홍차", "티"],
+      "children": []
+    },
+    {
+      "id": 902,
+      "code": "FLORAL_SUB",
+      "name": "꽃향",
+      "level": 2,
+      "parent_id": 9,
+      "keywords": ["floral", "flower", "꽃"],
+      "children": [90201, 90202, 90203]
+    },
+
+    {
+      "id": 10101,
+      "code": "BLACKBERRY",
+      "name": "블랙베리",
+      "level": 3,
+      "parent_id": 101,
+      "keywords": ["blackberry", "블랙베리"]
+    },
+    {
+      "id": 10102,
+      "code": "RASPBERRY",
+      "name": "라즈베리",
+      "level": 3,
+      "parent_id": 101,
+      "keywords": ["raspberry", "라즈베리"]
+    },
+    {
+      "id": 10103,
+      "code": "BLUEBERRY",
+      "name": "블루베리",
+      "level": 3,
+      "parent_id": 101,
+      "keywords": ["blueberry", "블루베리"]
+    },
+    {
+      "id": 10104,
+      "code": "STRAWBERRY",
+      "name": "딸기",
+      "level": 3,
+      "parent_id": 101,
+      "keywords": ["strawberry", "딸기"]
+    },
+    {
+      "id": 10201,
+      "code": "RAISIN",
+      "name": "건포도",
+      "level": 3,
+      "parent_id": 102,
+      "keywords": ["raisin", "건포도"]
+    },
+    {
+      "id": 10202,
+      "code": "PRUNE",
+      "name": "자두",
+      "level": 3,
+      "parent_id": 102,
+      "keywords": ["prune", "plum", "자두"]
+    },
+    {
+      "id": 10301,
+      "code": "COCONUT",
+      "name": "코코넛",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["coconut", "코코넛"]
+    },
+    {
+      "id": 10302,
+      "code": "CHERRY",
+      "name": "체리",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["cherry", "체리"]
+    },
+    {
+      "id": 10303,
+      "code": "POMEGRANATE",
+      "name": "석류",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["pomegranate", "석류"]
+    },
+    {
+      "id": 10304,
+      "code": "PINEAPPLE",
+      "name": "파인애플",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["pineapple", "파인애플"]
+    },
+    {
+      "id": 10305,
+      "code": "GRAPE",
+      "name": "포도",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["grape", "포도"]
+    },
+    {
+      "id": 10306,
+      "code": "APPLE",
+      "name": "사과",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["apple", "사과"]
+    },
+    {
+      "id": 10307,
+      "code": "PEACH",
+      "name": "복숭아",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["peach", "복숭아"]
+    },
+    {
+      "id": 10308,
+      "code": "PEAR",
+      "name": "배",
+      "level": 3,
+      "parent_id": 103,
+      "keywords": ["pear", "배"]
+    },
+    {
+      "id": 10401,
+      "code": "GRAPEFRUIT",
+      "name": "자몽",
+      "level": 3,
+      "parent_id": 104,
+      "keywords": ["grapefruit", "자몽"]
+    },
+    {
+      "id": 10402,
+      "code": "ORANGE",
+      "name": "오렌지",
+      "level": 3,
+      "parent_id": 104,
+      "keywords": ["orange", "오렌지", "mandarin", "tangerine"]
+    },
+    {
+      "id": 10403,
+      "code": "LEMON",
+      "name": "레몬",
+      "level": 3,
+      "parent_id": 104,
+      "keywords": ["lemon", "레몬"]
+    },
+    {
+      "id": 10404,
+      "code": "LIME",
+      "name": "라임",
+      "level": 3,
+      "parent_id": 104,
+      "keywords": ["lime", "라임"]
+    },
+    {
+      "id": 20101,
+      "code": "SOUR_AROMATICS",
+      "name": "신 향",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["sour aromatics", "신 향"]
+    },
+    {
+      "id": 20102,
+      "code": "ACETIC_ACID",
+      "name": "아세트산",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["acetic", "vinegar", "식초"]
+    },
+    {
+      "id": 20103,
+      "code": "BUTYRIC_ACID",
+      "name": "부티르산",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["butyric", "butter", "버터"]
+    },
+    {
+      "id": 20104,
+      "code": "ISOVALERIC_ACID",
+      "name": "이소발레르산",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["cheese", "치즈"]
+    },
+    {
+      "id": 20105,
+      "code": "CITRIC_ACID",
+      "name": "시트르산",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["citric", "citrus acidity", "시트르산"]
+    },
+    {
+      "id": 20106,
+      "code": "MALIC_ACID",
+      "name": "말산",
+      "level": 3,
+      "parent_id": 201,
+      "keywords": ["malic", "apple acidity", "말산", "사과산"]
+    },
+    {
+      "id": 20201,
+      "code": "WINEY",
+      "name": "와인 같은",
+      "level": 3,
+      "parent_id": 202,
+      "keywords": ["winey", "wine", "wine-like", "와인", "와이니"]
+    },
+    {
+      "id": 20202,
+      "code": "WHISKEY",
+      "name": "위스키",
+      "level": 3,
+      "parent_id": 202,
+      "keywords": ["whiskey", "whisky", "위스키"]
+    },
+    {
+      "id": 20203,
+      "code": "FERMENTED",
+      "name": "발효",
+      "level": 3,
+      "parent_id": 202,
+      "keywords": ["fermented", "boozy", "발효"]
+    },
+    {
+      "id": 20204,
+      "code": "OVERRIPE",
+      "name": "과숙",
+      "level": 3,
+      "parent_id": 202,
+      "keywords": ["overripe", "과숙", "과일잼"]
+    },
+    {
+      "id": 30201,
+      "code": "UNDER_RIPE",
+      "name": "덜 익음",
+      "level": 3,
+      "parent_id": 302,
+      "keywords": ["under-ripe", "unripe", "덜 익은"]
+    },
+    {
+      "id": 30202,
+      "code": "PEAPOD",
+      "name": "완두콩 꼬투리",
+      "level": 3,
+      "parent_id": 302,
+      "keywords": ["peapod", "pea", "완두콩"]
+    },
+    {
+      "id": 30301,
+      "code": "FRESH",
+      "name": "신선한",
+      "level": 3,
+      "parent_id": 303,
+      "keywords": ["fresh", "신선한"]
+    },
+    {
+      "id": 30302,
+      "code": "DARK_GREEN",
+      "name": "진한 녹색",
+      "level": 3,
+      "parent_id": 303,
+      "keywords": ["dark green", "진녹색"]
+    },
+    {
+      "id": 30303,
+      "code": "VEGETATIVE",
+      "name": "채소",
+      "level": 3,
+      "parent_id": 303,
+      "keywords": ["vegetative", "vegetal", "채소"]
+    },
+    {
+      "id": 30304,
+      "code": "HAY_LIKE",
+      "name": "건초",
+      "level": 3,
+      "parent_id": 303,
+      "keywords": ["hay", "straw", "건초", "짚"]
+    },
+    {
+      "id": 30305,
+      "code": "HERB_LIKE",
+      "name": "허브",
+      "level": 3,
+      "parent_id": 303,
+      "keywords": ["herb", "herbal", "허브", "허벌"]
+    },
+    {
+      "id": 40101,
+      "code": "STALE",
+      "name": "묵은",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["stale", "묵은"]
+    },
+    {
+      "id": 40102,
+      "code": "CARDBOARD",
+      "name": "골판지",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["cardboard", "골판지"]
+    },
+    {
+      "id": 40103,
+      "code": "PAPERY",
+      "name": "종이",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["papery", "paper", "종이"]
+    },
+    {
+      "id": 40104,
+      "code": "WOODY",
+      "name": "나무",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["woody", "wood", "나무", "우디"]
+    },
+    {
+      "id": 40105,
+      "code": "MOLDY_DAMP",
+      "name": "곰팡이/습함",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["moldy", "damp", "곰팡이", "습한"]
+    },
+    {
+      "id": 40106,
+      "code": "MUSTY_DUSTY",
+      "name": "곰팡이/먼지",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["musty", "dusty", "먼지"]
+    },
+    {
+      "id": 40107,
+      "code": "MUSTY_EARTHY",
+      "name": "곰팡이/흙",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["earthy", "earth", "흙", "어시"]
+    },
+    {
+      "id": 40108,
+      "code": "ANIMALIC",
+      "name": "동물성",
+      "level": 3,
+      "parent_id": 401,
+      "keywords": ["animalic", "animal", "동물성"]
+    },
+    {
+      "id": 40201,
+      "code": "BITTER",
+      "name": "쓴맛",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["bitter", "쓴맛"]
+    },
+    {
+      "id": 40202,
+      "code": "SALTY",
+      "name": "짠맛",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["salty", "salt", "짠맛"]
+    },
+    {
+      "id": 40203,
+      "code": "MEDICINAL",
+      "name": "약품",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["medicinal", "medicine", "약품"]
+    },
+    {
+      "id": 40204,
+      "code": "PETROLEUM",
+      "name": "석유",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["petroleum", "oil", "석유"]
+    },
+    {
+      "id": 40205,
+      "code": "SKUNKY",
+      "name": "스컹크",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["skunky", "skunk", "스컹크"]
+    },
+    {
+      "id": 40206,
+      "code": "RUBBER",
+      "name": "고무",
+      "level": 3,
+      "parent_id": 402,
+      "keywords": ["rubber", "고무"]
+    },
+    {
+      "id": 50301,
+      "code": "ACRID",
+      "name": "매캐한",
+      "level": 3,
+      "parent_id": 503,
+      "keywords": ["acrid", "매캐한"]
+    },
+    {
+      "id": 50302,
+      "code": "ASHY",
+      "name": "재",
+      "level": 3,
+      "parent_id": 503,
+      "keywords": ["ashy", "ash", "재"]
+    },
+    {
+      "id": 50303,
+      "code": "SMOKY",
+      "name": "연기",
+      "level": 3,
+      "parent_id": 503,
+      "keywords": ["smoky", "smoke", "연기", "스모키"]
+    },
+    {
+      "id": 50304,
+      "code": "BROWN_ROAST",
+      "name": "갈색 로스트",
+      "level": 3,
+      "parent_id": 503,
+      "keywords": ["brown roast", "dark roast", "갈색 로스트"]
+    },
+    {
+      "id": 50401,
+      "code": "GRAIN",
+      "name": "곡물",
+      "level": 3,
+      "parent_id": 504,
+      "keywords": ["grain", "grainy", "곡물"]
+    },
+    {
+      "id": 50402,
+      "code": "MALT",
+      "name": "맥아",
+      "level": 3,
+      "parent_id": 504,
+      "keywords": ["malt", "malty", "맥아", "몰트"]
+    },
+    {
+      "id": 60301,
+      "code": "ANISE",
+      "name": "아니스",
+      "level": 3,
+      "parent_id": 603,
+      "keywords": ["anise", "아니스", "회향"]
+    },
+    {
+      "id": 60302,
+      "code": "NUTMEG",
+      "name": "육두구",
+      "level": 3,
+      "parent_id": 603,
+      "keywords": ["nutmeg", "육두구"]
+    },
+    {
+      "id": 60303,
+      "code": "CINNAMON",
+      "name": "시나몬",
+      "level": 3,
+      "parent_id": 603,
+      "keywords": ["cinnamon", "시나몬", "계피"]
+    },
+    {
+      "id": 60304,
+      "code": "CLOVE",
+      "name": "정향",
+      "level": 3,
+      "parent_id": 603,
+      "keywords": ["clove", "정향"]
+    },
+    {
+      "id": 70101,
+      "code": "PEANUTS",
+      "name": "땅콩",
+      "level": 3,
+      "parent_id": 701,
+      "keywords": ["peanut", "peanuts", "땅콩"]
+    },
+    {
+      "id": 70102,
+      "code": "HAZELNUT",
+      "name": "헤이즐넛",
+      "level": 3,
+      "parent_id": 701,
+      "keywords": ["hazelnut", "헤이즐넛"]
+    },
+    {
+      "id": 70103,
+      "code": "ALMOND",
+      "name": "아몬드",
+      "level": 3,
+      "parent_id": 701,
+      "keywords": ["almond", "아몬드"]
+    },
+    {
+      "id": 70201,
+      "code": "CHOCOLATE",
+      "name": "초콜릿",
+      "level": 3,
+      "parent_id": 702,
+      "keywords": ["chocolate", "milk chocolate", "초콜릿", "밀크초콜릿"]
+    },
+    {
+      "id": 70202,
+      "code": "DARK_CHOCOLATE",
+      "name": "다크 초콜릿",
+      "level": 3,
+      "parent_id": 702,
+      "keywords": ["dark chocolate", "bittersweet chocolate", "다크초콜릿", "쓴초콜릿"]
+    },
+    {
+      "id": 80101,
+      "code": "MOLASSES",
+      "name": "당밀",
+      "level": 3,
+      "parent_id": 801,
+      "keywords": ["molasses", "당밀"]
+    },
+    {
+      "id": 80102,
+      "code": "MAPLE_SYRUP",
+      "name": "메이플 시럽",
+      "level": 3,
+      "parent_id": 801,
+      "keywords": ["maple", "maple syrup", "메이플", "단풍"]
+    },
+    {
+      "id": 80103,
+      "code": "CARAMELIZED",
+      "name": "캐러멜화",
+      "level": 3,
+      "parent_id": 801,
+      "keywords": ["caramel", "caramelized", "toffee", "캐러멜", "토피"]
+    },
+    {
+      "id": 80104,
+      "code": "HONEY",
+      "name": "꿀",
+      "level": 3,
+      "parent_id": 801,
+      "keywords": ["honey", "honeyed", "꿀"]
+    },
+    {
+      "id": 90201,
+      "code": "CHAMOMILE",
+      "name": "카모마일",
+      "level": 3,
+      "parent_id": 902,
+      "keywords": ["chamomile", "카모마일"]
+    },
+    {
+      "id": 90202,
+      "code": "ROSE",
+      "name": "장미",
+      "level": 3,
+      "parent_id": 902,
+      "keywords": ["rose", "장미", "로즈"]
+    },
+    {
+      "id": 90203,
+      "code": "JASMINE",
+      "name": "자스민",
+      "level": 3,
+      "parent_id": 902,
+      "keywords": ["jasmine", "자스민", "재스민"]
+    }
+  ],
+
+  "profiles": {
+    "_description": "국가/품종/가공법 조합에 따른 일반적인 향미 프로파일. 참고용.",
+    "ethiopia_washed": {
+      "description": "밝은 산미, 플로럴, 시트러스, 티 계열",
+      "typical_flavors": [104, 902, 901, 10403, 90203]
+    },
+    "ethiopia_natural": {
+      "description": "베리, 와인, 발효, 열대과일",
+      "typical_flavors": [101, 20201, 10101, 10103, 10302]
+    },
+    "colombia_washed": {
+      "description": "밸런스, 견과류, 캐러멜, 초콜릿, 중간 산미",
+      "typical_flavors": [701, 80103, 70201, 104, 10306]
+    },
+    "kenya": {
+      "description": "강한 산미, 베리, 자몽, 토마토 같은 복잡함",
+      "typical_flavors": [101, 10401, 10101, 201, 10302]
+    },
+    "gesha_washed": {
+      "description": "플로럴, 자스민, 복숭아, 시트러스, 티 계열",
+      "typical_flavors": [902, 90203, 10307, 104, 901]
+    },
+    "bourbon": {
+      "description": "단맛, 캐러멜, 초콜릿, 견과류",
+      "typical_flavors": [801, 80103, 70201, 701, 8]
+    },
+    "pink_bourbon": {
+      "description": "플로럴, 복잡한 산미, 과일향, 섬세함",
+      "typical_flavors": [902, 104, 103, 8, 9]
+    },
+    "brazil_natural": {
+      "description": "견과류, 초콜릿, 낮은 산미, 바디감",
+      "typical_flavors": [701, 702, 70201, 70101, 80103]
+    },
+    "costa_rica_honey": {
+      "description": "꿀, 캐러멜, 과일, 부드러운 산미",
+      "typical_flavors": [80104, 80103, 103, 8, 104]
+    }
+  }
+}

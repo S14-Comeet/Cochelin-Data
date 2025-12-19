@@ -1,0 +1,1001 @@
+﻿id,roastery_id,name,country,farm,variety,processing_method,roasting_level
+1,1,콜롬비아 플라나다스,콜롬비아,,,,LIGHT
+2,1,케냐 키안두 피이버리,케냐,,,,LIGHT
+3,1,디카페인 콜롬비아 핀카 라스 누베스,콜롬비아,Finca Las Nubes,,,LIGHT
+4,1,에티오피아 구지 함벨라 다바예,에티오피아,,,Washed,LIGHT
+5,1,5a 포니엔테,과테말라,,,,LIGHT
+6,1,파푸아뉴기니 제카카,파푸아뉴기니,,,,LIGHT
+7,1,크루즈 로마,에콰도르,,,Washed Anaerobic,LIGHT
+8,1,에티오피아 나노 겐지,에티오피아,,,Washed,LIGHT
+9,1,과테말라 발렌톤,과테말라,,,,LIGHT
+10,1,과테말라 캄파멘토 알토,과테말라,,,,LIGHT
+11,1,콜롬비아 안티오키아,콜롬비아,,,,LIGHT
+12,1,허니 온두라스 콤사,온두라스,,,Honey,LIGHT
+13,1,핀카 우익소크 마라카투라,과테말라,Finca Huixoc,Maracaturra,,LIGHT
+14,1,멕시코 알투라 내추럴 워터 프로세스 디카프,멕시코,,,Natural Water Process,LIGHT
+15,1,에티오피아 웨기다 내추럴,에티오피아,,,Natural,LIGHT
+16,1,마리오 아길라 그랑 크루 엘 살바도르,엘 살바도르,,Pacamara,,MEDIUM
+17,1,가요 아체 수마트라,인도네시아,,,,LIGHT
+18,1,코스타리카 타라주 더블 아나로빅 워시드,코스타리카,,,Anaerobic,LIGHT
+19,1,콜롬비아 윌턴 베니테즈 더블 아나에로빅 열 덕시아,콜롬비아,,Gesha,Anaerobic,LIGHT
+20,1,코나 락틱 내추럴 블랙 록 팜,하와이,Black Rock Farm,,Lactic Natural,LIGHT
+21,1,핀카 산타 이사벨,과테말라,Finca Santa Isabel,,,LIGHT
+22,1,르완다 니루지사 스테이션,르완다,Nyruzisa Station,,,LIGHT
+23,1,에티오피아 구지 슈퍼 내추럴 디카프 워터 프로세스,에티오피아,,,Water Process,MEDIUM
+24,1,에티오피아 워시드 구지 우라가 웰리추,에티오피아,,,Washed,LIGHT
+25,1,콜롬비아 돈 코레아 게샤,콜롬비아,,Gesha,Carbonic Maceration,LIGHT
+26,1,나노 찰라 #6 에티오피아,에티오피아,,,Washed,LIGHT
+27,1,유기농 에티오피아 아가로-나노 찰라,에티오피아,,,Washed,LIGHT
+28,1,케냐 투이킷 팩토리 AA,케냐,,,,LIGHT
+29,1,에티오피아 구지 아나 소라 알콜 내추럴 G1,에티오피아,,,Natural,LIGHT
+30,1,에티오피아 드라이 프로세스 구지 함벨라,에티오피아,,,Natural,LIGHT
+31,1,파나마 아이센데 라 에스메랄다 에티오피아 액세션,파나마,Hacienda La Esmeralda,,,LIGHT
+32,1,하시엔다 라 에스메랄다 부에노스 아이레스 게이샤 내추럴,파나마,Hacienda La Esmeralda,Geisha,Natural,LIGHT
+33,1,에티오피아 구지 우라가,에티오피아,,,Washed,LIGHT
+34,1,핀카 엘 하르딘 과테말라,과테말라,Finca El Jardin,Pacamara,,MEDIUM
+35,1,피우라 페루,페루,,,,LIGHT
+36,1,에티오피아 예가체프 내추럴,에티오피아,,,Natural,LIGHT
+37,1,니카라과 미에리쉬 핀카 라 우엘라 옐로우 파카마라 허니,과테말라,Mierisch Finca La Huella,Pacamara,Honey,LIGHT
+38,1,브라질 레드 카투아이 더블 아네로빅,브라질,,Red Catuaí,Double-Anaerobic,LIGHT
+39,1,코스타리카 볼칸 아줄 게이샤 이스트워시드,코스타리카,,Gesha,Yeast-Washed,LIGHT
+40,1,엘살바도르 파카마라,엘살바도르,,Pacamara,Washed,LIGHT
+41,1,코나 모카,하와이,,Mocca,,LIGHT
+42,1,에티오피아 레코 에스테이트 예가체프,에티오피아,Reko Estate,,Washed,LIGHT
+43,1,코나 내추럴스,하와이,null,Typica,Natural,LIGHT
+44,1,코스타리카 아네로빅,코스타리카,,,Anaerobic,LIGHT
+45,1,과테말라 다크 로스트 FTO,과테말라,,,,HEAVY
+46,1,수마트라 아체 가요 마운틴 무사라 허니 프로세스,인도네시아,,,Honey,LIGHT
+47,1,케냐 키리니아가,케냐,,,,LIGHT
+48,1,과테말라 벨라 카르모나,과테말라,,,,LIGHT
+49,1,콜롬비아 트레스 드라곤스,콜롬비아,,,,LIGHT
+50,1,마르셀라 게샤 #108,콜롬비아,,Gesha,,LIGHT
+51,1,과테말라 엘 아세이투노 엘 보니토 마이크로롯,과테말라,,,,LIGHT
+52,1,콜롬비아 게샤 스피리츠 세미워시 아네로빅,콜롬비아,,Gesha,Semi-Washed Anaerobic,LIGHT
+53,1,탄자니아 응길라 에스테이트,탄자니아,Ngila Estate,,,LIGHT
+54,1,과테말라 핀카 라스 빅토리아스 아네로빅 내추럴,과테말라,Finca Las Victorias,,Anaerobic Natural,LIGHT
+55,1,에티오피아 가타메 무카 내추럴,에티오피아,,,Natural,LIGHT
+56,1,에티오피아 구지 라로,에티오피아,,,,LIGHT
+57,1,프루츠 아일랜드,에티오피아,,,Natural,LIGHT
+58,1,가차타 케냐,케냐,,,,LIGHT
+59,1,게이샤 베라크루즈,멕시코,,Geisha,,LIGHT
+60,1,에콰도르 라 호세피나 에스테이트,에콰도르,La Josefina Estate,Sidra,,LIGHT
+61,1,과테말라 핀카 산 헤라르도,과테말라,Finca San Gerardo,,,LIGHT
+62,1,코스타리카 루이스 캄포스 아네로빅,코스타리카,Luis Campos,,Anaerobic,LIGHT
+63,1,콜롬비아 핑크 부르봉,콜롬비아,,Pink Bourbon,Anaerobic,LIGHT
+64,1,카라멜 로쉐,코스타리카,,,Natural,LIGHT
+65,1,에티오피아 내추럴 시다마 아베베 74110,에티오피아,,74110,Natural,LIGHT
+66,1,에티오피아 구지 고로 무다 워시드 G1,에티오피아,,,Washed,LIGHT
+67,1,이그나시오 킨테로 콜롬비아,콜롬비아,,,,LIGHT
+68,1,에티오피아 구지,에티오피아,,,Natural,LIGHT
+69,1,콜롬비아 우시 우시 다이나믹 내추럴,콜롬비아,,Wush Wush,Natural,LIGHT
+70,1,에티오피아 예가체프 보타바 워시드 G1 21/01,에티오피아,,,Washed,LIGHT
+71,1,케냐 나이리 아살리 피베리,케냐,,,,LIGHT
+72,1,코페아 디버사 리베리카 카르보닉 매세레이션,코스타리카,,Liberica,Carbonic Maceration,LIGHT
+73,1,에티오피아 웨스트 아르시 넨세보 내추럴 G1,에티오피아,,,Natural,LIGHT
+74,1,키부 벨트 롯 32 루완다,루완다,,,,LIGHT
+75,1,모나크 게샤,하와이,,Gesha,,LIGHT
+76,1,코스타리카 아퀴아레스 에스테이트 다크 로스트,코스타리카,Aquiares Estate,,,MEDIUM
+77,1,안티구아 5a 수르,과테말라,,,,LIGHT
+78,1,타이완 올루링 센트 에스테이트 내추럴,타이완,Alluring Scent Estate,,Natural,LIGHT
+79,1,파나마 핀카 라스 누베스 게이샤 마이크로롯,파나마,Finca Las Nubes,Geisha,Natural,LIGHT
+80,1,에티오피아 바이올런트 안드로메다 내추럴,에티오피아,,,Natural,MEDIUM
+81,1,에티오피아 고라 코네 시다모,에티오피아,,,Natural,LIGHT
+82,1,에티오피아 거르비초 레라,에티오피아,,,Washed,LIGHT
+83,1,마법 고양이 케냐 시벳 AFCA TOH NO.2 가투야 팩토리 뉴 무라란디아 AA,케냐,Gatuya Factory,,,LIGHT
+84,1,엘리다 에스테이트 ASD 내추럴 카투아이 15,파나마,Elida Estate,Catuai,Natural,LIGHT
+85,1,콜롬비아 산 페드로,콜롬비아,,,Washed,LIGHT
+86,1,케냐 무랑가 기치가 AA,케냐,,,,LIGHT
+87,1,아카텐안고 파카마라 내추럴,과테말라,,Pacamara,Natural,LIGHT
+88,1,에티오피아 2022 COE #3 워시드 테마姆 74110,에티오피아,,74110,Washed,LIGHT
+89,1,과테말라 파체,과테말라,,Pache,Washed,LIGHT
+90,1,케냐 가투야,케냐,,,,MEDIUM
+91,1,에콰도르 라 호르미가 나티,에콰도르,,,Natural,LIGHT
+92,1,엘살바도르 핀카 라스 두아나스,엘살바도르,Finca Las Duanas,Pacamara,,LIGHT
+93,1,게이샤 파스코 옥사팜 페루,페루,,Geisha,,LIGHT
+94,1,콜롬비아 몬테블랑코 게이샤,콜롬비아,,Geisha,,LIGHT
+95,1,에티오피아 귀지 기게사,에티오피아,,,Washed,LIGHT
+96,1,에티오피아 워카 사카로 아네로빅 내추럴,에티오피아,,,Anaerobic,LIGHT
+97,1,르완다 칸주,르완다,,,,LIGHT
+98,1,르완다,르완다,,,,MEDIUM
+99,1,에티오피아 나노 겐지,에티오피아,,,Washed,LIGHT
+100,1,카우 핑크 허니,하와이,,,Honey,LIGHT
+101,1,냐이리 힐 케냐,케냐,,,,LIGHT
+102,1,페루 인카와시,페루,,,Natural,LIGHT
+103,1,에티오피아 구지 내추럴,에티오피아,,,Natural,LIGHT
+104,1,핀카 부에나비스타 에드윈 잠브라노,콜롬비아,Finca Buenavista,,Natural,LIGHT
+105,1,오피오 코나,하와이,,Gesha,,LIGHT
+106,1,에티오피아 데리 코초하,에티오피아,,,Washed,LIGHT
+107,1,필리핀 시티오 나구이 내추럴,필리핀,,,Natural,LIGHT
+108,1,부룬디,부룬디,,,,LIGHT
+109,1,콜롬비아 아로마스 데 수르,콜롬비아,,,Natural,LIGHT
+110,1,루완다 숄리,르완다,,,,LIGHT
+111,1,콜롬비아 그란하 파라이소 디카프,콜롬비아,,,,LIGHT
+112,1,과테말라 후나푸,과테말라,,,Washed,LIGHT
+113,1,온두라스 부에노스 아이레스,온두라스,,,,LIGHT
+114,1,과테말라 레티로 델 키사야,과테말라,,,Washed,LIGHT
+115,1,나노 겐지 #12 에티오피아,에티오피아,,,Washed,LIGHT
+116,1,케냐 키암부 서머 러브,케냐,,,,MEDIUM
+117,1,케냐 키비리그위 툰구리,케냐,,,,LIGHT
+118,1,콜롬비아 그란하 라 에스페란사 트레스 드라곤스,콜롬비아,Granja La Esperanza,,,LIGHT
+119,1,파푸아뉴기니 바로이다 에스테이트 내추럴,파푸아뉴기니,Baroida Estate,,Natural,LIGHT
+120,1,피버리 미디엄 로스트,하와이,null,Kona Typica,null,MEDIUM
+121,1,허니 티피카 아네로빅,하와이,Hala Tree Kona Coffee,Typica,Anaerobic,LIGHT
+122,1,라 소레다드 콜롬비아,콜롬비아,,Caturra,,LIGHT
+123,1,콜롬비아 라스 호야스: 피덴시오 마르티네즈 로트,콜롬비아,,,Honey,LIGHT
+124,1,콜롬비아 토리마 핀카 엘 미라도르 세척 애너로빅,콜롬비아,Finca El Mirador,,Washed Anaerobic,LIGHT
+125,1,에티오피아 허니 프로세스 타미루 타데세,에티오피아,Tamiru Tadesse,,Honey,LIGHT
+126,1,에티오피아 시다마 나이아 봄베 드라이 발효 수직 리저브,에티오피아,,,Dry Fermented,LIGHT
+127,1,케냐 AB 톱,켄야,,,,LIGHT
+128,1,에티오피아 시다모 벤사 아세파 두카모 워시드,에티오피아,,,Washed,LIGHT
+129,1,알라카 에티오피아,에티오피아,,,,LIGHT
+130,1,르완다 이레메,르완다,,,Anaerobic,LIGHT
+131,1,예멘 모카 쿨라니,예멘,,,,LIGHT
+132,1,프라이빗 리저브 콜롬비아 안티오키아,콜롬비아,,,,LIGHT
+133,1,콜롬비아 카우카 핀카 엘 파라이소 로즈 티,콜롬비아,Finca El Paraiso,,Anaerobic,LIGHT
+134,1,콜롬비아 위라,콜롬비아,,,,LIGHT
+135,1,멕시코 라 페냐,멕시코,,,,LIGHT
+136,1,엘 소코로 마라카투라,과테말라,,Maracaturra,,LIGHT
+137,1,과테말라 시에라 로하 게이샤,과테말라,,Gesha,,LIGHT
+138,1,코스타리카 미크로롯 시리즈 산 크리스토발 내추럴,코스타리카,,,Natural,LIGHT
+139,1,콜롬비아 라 카바냐,콜롬비아,,,,LIGHT
+140,1,코스타리카 윌리엄 모라,코스타리카,,,Natural,LIGHT
+141,1,루스 앤 알라 카우,하와이,,,,LIGHT
+142,1,에티오피아 지므 가라 아네로빅,에티오피아,,,Anaerobic,LIGHT
+143,1,케냐 키암부 우클리 AA,케냐,,,,MEDIUM
+144,1,과테말라 세척 엘 인헤르토 EI05 모카,과테말라,El Injerto,Mocca,Washed,LIGHT
+145,1,과테말라 아스프로크데구아 여성 생산자,과테말라,ASPROCDEGUA,,,LIGHT
+146,1,에티오피아 내추럴 구지 블루 돈키,에티오피아,,,Natural,LIGHT
+147,1,파나마 에스메랄다 게샤,파나마,Hacienda La Esmeralda,Gesha,Washed,LIGHT
+148,1,엘리다 내추럴 ASD,파나마,,,Natural,LIGHT
+149,1,코스타리카 타라주 도타 엘 디오사 게이샤,코스타리카,,Geisha,Honey,LIGHT
+150,1,콜롬비아 라 크리스탈리나 핑크 버본 내추럴,콜롬비아,,Pink Bourbon,Natural,LIGHT
+151,1,라스 그라비리아스 코스타리카,코스타리카,,,,LIGHT
+152,1,코나 레드 와인 프로세스,하와이,,,Wine Process,LIGHT
+153,1,트리바리탈,콜롬비아,,,,LIGHT
+154,1,에콰도르 핀카 루그마파타 메호라도,에콰도르,Finca Lugmapata Mejorado,,,LIGHT
+155,1,케냐 완젠기 AA,케냐,,,,MEDIUM
+156,1,에티오피아 예가체프 첼베사 내추럴,에티오피아,,,Natural,LIGHT
+157,1,파나마 게이샤 핀카 데브라 심비오시스,파나마,Finca Debra,Gesha,Anaerobic,LIGHT
+158,1,핀카 라 에스페란사 빌라 사르치,과테말라,Finca La Esperanza,Villa Sarchi,,LIGHT
+159,1,케냐 가차타 AB,케냐,,,,LIGHT
+160,1,윌튼 베니테즈 오렌지 보르봉,콜롬비아,,Bourbon,,LIGHT
+161,1,100% 과테말라,과테말라,,,,HEAVY
+162,1,콜롬비아 라 에스페란자 포토시 아나에로빅 프로세스,콜롬비아,La Esperanza,,Anaerobic,LIGHT
+163,1,은행고티티 내추럴,에티오피아,,,Natural,LIGHT
+164,1,파나마 라 비우다 내추럴 게이샤 4 형제,파나마,,Gesha,Natural,LIGHT
+165,1,콜롬비아,콜롬비아,,,,MEDIUM
+166,1,온두라스 라스 플로레스 파라이나마,온두라스,,Parainema,,LIGHT
+167,1,에티오피아 함벨라 벤티 G1 워시드,에티오피아,,,Washed,LIGHT
+168,1,콜롬비아 라데라스 델 타피아스 에스테이트 내추럴 게이샤,콜롬비아,Laderas del Tapias Estate,Geisha,Natural,LIGHT
+169,1,케냐 루제토 피버리,케냐,,,,MEDIUM
+170,1,케냐 니에리,케냐,,,,LIGHT
+171,1,콜롬비아 핀카 산타 마리아,콜롬비아,Finca Santa Maria,,Natural,LIGHT
+172,1,레몬 설탕 세척,에티오피아,,,Washed,LIGHT
+173,1,태국 후아이 메이 리암 화이트 허니,태국,,,White Honey,LIGHT
+174,1,하와이 카우 샴페인 내추럴,하와이,,,Natural,LIGHT
+175,1,에티오피아 아네로빅 내추럴,에티오피아,,,Anaerobic,LIGHT
+176,1,캘리포니아 그로운,미국,,,,LIGHT
+177,1,코나 마라고지페 피베리 내추럴,하와이,,Maragogype,Natural,LIGHT
+178,1,케냐 카라투,케냐,,,,LIGHT
+179,1,파나마 HWC 커피 에스테이트 워시드,파나마,,Gesha,Washed,LIGHT
+180,1,에티오피아 야비투 코바,에티오피아,,,Washed,LIGHT
+181,1,에티오피아 구지 워시드 G1 앙클 셀렉트 롯 21/01,에티오피아,,,Washed,LIGHT
+182,1,기칸자 케냐,케냐,,,,LIGHT
+183,1,케냐 가쿤두 FCS 감비우 웻 밀,케냐,Kamviu Wet Mill,,Wet,LIGHT
+184,1,에티오피아 게투 쿠루메 내추럴,에티오피아,,,Natural,LIGHT
+185,1,케린치 팔롬펙 수마트라,인도네시아,,,,LIGHT
+186,1,문보우 디카프,남아메리카,,,,HEAVY
+187,1,코나 펌킨 스파이스 아네로빅,하와이,,,Anaerobic,LIGHT
+188,1,부룬디 내추럴 아나에로빅 키빙고,부룬디,,,Natural Anaerobic,LIGHT
+189,1,코나 레드 버본,하와이,,Red Bourbon,,LIGHT
+190,1,과테말라 엘 소코로 마라카투라,과테말라,,Maracaturra,,LIGHT
+191,1,케냐 눈데베리 피베리,케냐,,,,LIGHT
+192,1,케냐 차니아 에스테이트,케냐,Chania Estate,,,MEDIUM
+193,1,케티아라 수마트라,인도네시아,,,Wet-Hulled,LIGHT
+194,1,콜롬비아 벨라 블랙 호크 내추럴,콜롬비아,,,Natural,LIGHT
+195,1,에티오피아 타미루 타데세 아네로빅,에티오피아,,,Anaerobic,LIGHT
+196,1,에티오피아 내추럴 구지 D 마이너 21/01,에티오피아,,,Natural,LIGHT
+197,1,과테말라 라 보스,과테말라,,,,LIGHT
+198,1,유기농 과테말라 토케아,과테말라,,,,LIGHT
+199,1,에티오피아 코체레 하마 제트 세척소,에티오피아,Hama Jet Washing Station,,Washed,LIGHT
+200,1,르완다 내추럴 루치로 부고이,르완다,,,Natural,LIGHT
+201,1,모하비 볼트 시리즈 게이샤 내추럴,파나마,,Gesha,Natural,LIGHT
+202,1,파나마 에스메랄다 다이아몬드 마운틴 카투아이 워시드,파나마,Hacienda La Esmeralda,Catuai,Washed,LIGHT
+203,1,콩고 무간고 코옵,콩고 민주 공화국,,,,LIGHT
+204,1,에티오피아 와시드 예가체프 게댑 워카 첼체레,에티오피아,,,Washed,LIGHT
+205,1,에쿠아도르 핀카 루그마파타,에쿠아도르,Finca Lugmapata,,Washed,LIGHT
+206,1,온두라스 파라이소 엘 아구아카테 에디스 산체스 파라이나마 워시드 1300M 로트 296,온두라스,,Parainema,Washed,LIGHT
+207,1,페루 내추럴 호세 에레라 로트 21,페루,,,Natural,LIGHT
+208,1,콜롬비아 후일라 팔메라,콜롬비아,,,,LIGHT
+209,1,우간다 유기농 시피 폭포 허니,우간다,,,Honey,LIGHT
+210,1,코스타리카 라스 라하스 핀카 미렐라,코스타리카,Finca Mirella,,Natural,LIGHT
+211,1,케냐 케보타 마켄기,케냐,,,,MEDIUM
+212,1,에티오피아 구지 우라가 월리추 아네로빅 내추럴 프로세스,에티오피아,,,Anaerobic,LIGHT
+213,1,에티오피아 구지 (로즈 셀렉션),에티오피아,,,Natural,LIGHT
+214,1,파나마 아시엔다 라 에스메랄다 개샤,파나마,Hacienda La Esmeralda,Gesha,Washed,LIGHT
+215,1,핀카 라 마리아 게이샤 내추럴,콜롬비아,Finca La Maria,Geisha,Natural,LIGHT
+216,1,엘 아길라 SL28 엘살바도르,엘살바도르,,SL28,,LIGHT
+217,1,예가체프 맨게샤 내추럴,에티오피아,,,Natural,LIGHT
+218,1,콜롬비아 부에사코,콜롬비아,,,,LIGHT
+219,1,콜롬비아 엘 베르헬 과바 바나나,콜롬비아,,,,LIGHT
+220,1,코스타리카 아퀴아레스 에스테이트,코스타리카,Aquiares Estate,,Natural,LIGHT
+221,1,에스페란자 빌라 사르치,과테말라,,Villa Sarchi,,LIGHT
+222,1,부룬디 넘바 세척법,부룬디,,,Washed,LIGHT
+223,1,파나마 게이샤,파나마,,Gesha,Anaerobic,MEDIUM
+224,1,과테말라 과야브 협동조합,과테말라,,,,LIGHT
+225,1,파나마 라 무라 게이샤 워시드,파나마,,Gesha,Washed,LIGHT
+226,1,과테말라 아카텐안고 게샤,과테말라,,Gesha,,LIGHT
+227,1,에티오피아 예가체프 차차레 내추럴,에티오피아,,,Natural,LIGHT
+228,1,파나마 카투아이,파나마,,Catuai,Anaerobic,LIGHT
+229,1,케냐 키암부,케냐,,,,LIGHT
+230,1,자피로,페루,Finca Tasta,Pacamara,Anaerobic,LIGHT
+231,1,에티오피아 게디오 예가체프 부르투칸 와코 내추럴 G1,에티오피아,,,Natural,LIGHT
+232,1,엘 포트레로,과테말라,,,,LIGHT
+233,1,비람보 마을 DR 콩고,콩고 민주 공화국,,,,LIGHT
+234,1,과테말라 마라고지페 라 프로비덴시아,과테말라,La Providencia,Maragogype,,LIGHT
+235,1,카욘 마운틴 에티오피아,에티오피아,,,Washed,LIGHT
+236,1,파나마 게이샤,파나마,Jaramillo,Gesha,,LIGHT
+237,1,에티오피아 샨타웨네 워시드,에티오피아,,,Washed,LIGHT
+238,1,그랜드 챔피언 레드 버본 내추럴,하와이,,Bourbon,Natural,LIGHT
+239,1,파나마 게이샤 알토 자라미요,파나마,Alto Jaramillo,Gesha,,LIGHT
+240,1,케냐 AA FAQ,케냐,,,,LIGHT
+241,1,에티오피아 내추럴 구지 다사야,에티오피아,,,Natural,LIGHT
+242,1,윌튼 베네스 시드라,콜롬비아,,Sidra,Anaerobic,LIGHT
+243,1,타이완 알리산 허니,타이완,,,Honey,LIGHT
+244,1,콜롬비아 핀카 몬테베르데,콜롬비아,Finca Monteverde,Geisha,Natural,LIGHT
+245,1,에콰도르 페냐엘레라 AAA,에콰도르,,,,LIGHT
+246,1,에티오피아 예가체프 뮬루게타 지게,에티오피아,,,Washed,LIGHT
+247,1,콜롬비아 라 팔마 이 엘 투칸,콜롬비아,La Palma y El Tucan,,Anaerobic,LIGHT
+248,1,온두라스 핀카 돈 에우세비오,온두라스,Finca Don Eusebio,,,LIGHT
+249,1,아카텐안고 산타 펠리사 와일드 이스트 내추럴 수단 룸 패스풀 문 롯 4,과테말라,Santa Felisa,Sudan Rume,Natural,LIGHT
+250,1,우드 밸리 싱글 에스테이트 카우,하와이,Big Island Coffee Roasters,,,LIGHT
+251,1,에티오피아 데메카 베차,에티오피아,,,Washed,LIGHT
+252,1,콜롬비아 핑크 보르본/핑크 레모네이드 콜라보레이션,콜롬비아,,Pink Bourbon,,LIGHT
+253,1,콜롬비아 라군 자바 아네로빅,콜롬비아,,,Anaerobic,LIGHT
+254,1,에티오피아 아나소라 익스텐디드 내추럴 스페셜 롯,에티오피아,,,Extended Natural,LIGHT
+255,1,카라티나 케냐,케냐,,,,LIGHT
+256,1,에티오피아 내추럴 예가체프 워카 넨케 아브라함 멘기스테,에티오피아,Worka Nenke Abraham Mengiste,,Natural,LIGHT
+257,1,에티오피아 시다마 봄베 내추럴,에티오피아,,,Natural,MEDIUM
+258,1,산디에고 내추럴,코스타리카,,,Natural,LIGHT
+259,1,멕시코 FTO,멕시코,,,,LIGHT
+260,1,과테말라 디아만떼 페레즈,과테말라,,,,LIGHT
+261,1,바Banco Gotete 에티오피아,에티오피아,,,Washed,LIGHT
+262,1,CBD 커피 다크 로스트,하와이,,,,HEAVY
+263,1,에티오피아 게덥 워카 싱글 바리ety 74110 G1,에티오피아,,74110,Washed,LIGHT
+264,1,더블 A 기차 케냐 카부니에리아 AA,케냐,,AA,,LIGHT
+265,1,파나마 핀카 산타 테레사 롯 9,파나마,Finca Santa Teresa,,,LIGHT
+266,1,부룬디 부호르와,부룬디,,,,LIGHT
+267,1,에티오피아 내추럴 시다마 타미루 74158,에티오피아,,,Natural,LIGHT
+268,1,퍼루 내추럴 게샤,페루,,Gesha,Natural,LIGHT
+269,1,에티오피아 내추럴 구지 블루-돈키 2020,에티오피아,,,Natural,LIGHT
+270,1,에티오피아 시다마 보나 워시드 G1,에티오피아,,,Washed,LIGHT
+271,1,에티오피아 구지 제르비초 내추럴,에티오피아,,,Natural,LIGHT
+272,1,코스타리카 브룬카 리벤세 라 구아카 패션 허니,코스타리카,,,Honey,LIGHT
+273,1,에이지드 수마트라 울로스 바탁 2015,인도네시아,,,,MEDIUM
+274,1,파푸아뉴기니 바로이다 워시드,파푸아뉴기니,,,Washed,LIGHT
+275,1,과테말라 비스타 알 보스케,과테말라,,,,MEDIUM
+276,1,유기농 수케 쿠토 에티오피아,에티오피아,,,Honey,LIGHT
+277,1,혁명 미디엄 로스트,아이티,,,,MEDIUM
+278,1,에콰도르 핀카 카롤리나 시드라,에콰도르,Finca Carolina,Sidra,,LIGHT
+279,1,에콰도르 마푸토 허니,에콰도르,,,Honey,LIGHT
+280,1,판탄 무사라,인도네시아,,,,LIGHT
+281,1,과테말라 라 콜리나,과테말라,,,,LIGHT
+282,1,예멘 자발 나비 스폐셜 리저브,예멘,,,,LIGHT
+283,1,파푸아 뉴기니 티무자,파푸아 뉴기니,,,,LIGHT
+284,1,산타 루지아 브라질,브라질,,,,LIGHT
+285,1,페루 산 이그나시오 칼라조보 로트 2 FTO,페루,,,,LIGHT
+286,1,산타 엘레나 콜롬비아 카투라 내추럴,콜롬비아,,Caturra,Natural,LIGHT
+287,1,레피사 에티오피아,에티오피아,,,Washed,LIGHT
+288,1,콜롬비아 플라나다스 톨리마,콜롬비아,,Geisha,,LIGHT
+289,1,파나마 아우로마르 카밀리나 게이샤 내추럴,파나마,Auromar,Geisha,Natural,LIGHT
+290,1,필리핀 시티오 벨리스 1017,필리핀,,,,LIGHT
+291,1,필리핀 시티오 벨리스 1014,필리핀,,,Anaerobic,LIGHT
+292,1,세인트헬레나 섬 피버리,세인트헬레나,,,,LIGHT
+293,1,대만 내추럴 알리산 TFU’YA 카칼로브 로트,대만,Kakalove Lot,,Natural,LIGHT
+294,1,엘 모리토 과테말라,과테말라,,,Washed,LIGHT
+295,1,키부구 케냐,케냐,,,,LIGHT
+296,1,카우 옐로우 카투라 아네로빅 내추럴,하와이,,Caturra,Anaerobic Natural,LIGHT
+297,1,콜롬비아 카스틸로 프루트 매세레이션 시리즈 (딸기),콜롬비아,,Castillo,Co-fermented,LIGHT
+298,1,예멘 셰바 옥션 로트 1: 와디 알 마흐르,예멘,,,,LIGHT
+299,1,핀카 세로 아술 아세스 롯,멕시코,Finca Cerro Azul,,Anaerobic,LIGHT
+300,1,에티오피아 하센 와레 아크라비,에티오피아,,,,LIGHT
+301,1,콜롬비아 게이샤 나리노 부에나스 아이레스,콜롬비아,,Geisha,,LIGHT
+302,1,에티오피아 시다마 보나 스위트 내추럴 G1,에티오피아,,,Natural,LIGHT
+303,1,에티오피아 예가체프 두메르소 G1 내추럴,에티오피아,,,Natural,LIGHT
+304,1,케냐 AA,켄야,,,,LIGHT
+305,1,에티오피아 구지 1 내츄럴 함벨라 롯 215,에티오피아,,,Natural,LIGHT
+306,1,콜롬비아 핀카 라 로마 마이크로롯,콜롬비아,Finca La Loma,,,LIGHT
+307,1,코스타리카 피카 사바나 레돈다 SL28,코스타리카,Finca Sabana Redonda,SL28,,LIGHT
+308,1,"콩고, 제라 빌리지, 소파크디",콩고 민주 공화국,,,,LIGHT
+309,1,코스타리카 하시엔다 소노라 허니,코스타리카,Hacienda Sonora,,Honey,LIGHT
+310,1,코나 누아르,하와이,,SL34,,LIGHT
+311,1,게이샤,하와이,Hala Tree Kona Coffee,Gesha,,LIGHT
+312,1,에티오피아 우라가 워시드 G1,에티오피아,,,Washed,LIGHT
+313,1,콜롬비아 카스틸로 프룻 마세레이션 시리즈 (패션프루트),콜롬비아,,Castillo,Maceration,LIGHT
+314,1,파나마 게이샤 핀카 데브라 비비드,파나마,Finca Debra,Gesha,Carbonic Maceration,LIGHT
+315,1,"에티오피아 디이마 내추럴 프로세스 벤티 넹카, 함벨라 와메나",에티오피아,,,Natural,LIGHT
+316,1,올빈 발레 온두라스,온두라스,,,,LIGHT
+317,1,에티오피아 예가체프 워시드,에티오피아,,,Washed,MEDIUM
+318,1,파나마 페르시 게이샤 내추럴,파나마,,Gesha,Natural,LIGHT
+319,1,코스타리카 쿰브레스 델 포아스 아나에로빅,코스타리카,,,Anaerobic,LIGHT
+320,1,케냐 기차타이니,케냐,,,,LIGHT
+321,1,콜롬비아 핀카 엘 파라이소 게이샤 레티,콜롬비아,Finca El Paraiso,Geisha,Double Anaerobic,LIGHT
+322,1,핀카 산 카를로스,과테말라,Finca San Carlos,,,LIGHT
+323,1,라 코이파 페루,페루,null,null,null,LIGHT
+324,1,몬테 알반,멕시코,,,,LIGHT
+325,1,엘살바도르 핑카 히말라야 파카마라,엘살바도르,Finca Himalaya,Pacamara,,LIGHT
+326,1,니카라과 플로르 데 달리아 내추럴,니카라과,La Dalia,,Natural,LIGHT
+327,1,에티오피아 뱅코 고티티,에티오피아,,,Washed,LIGHT
+328,1,브라질 레크레일 세렉티보,브라질,,,,LIGHT
+329,1,페루 차크라 돈 다고,페루,Chacra Don Dago,,,LIGHT
+330,1,베켈레 헤토 내추럴 에티오피아,에티오피아,,,Natural,LIGHT
+331,1,푸나 샴페인 내추럴 아네로빅,하와이,,,Natural Anaerobic,LIGHT
+332,1,에티오피아 우쉬 우쉬,에티오피아,,Ethiopia indigenous,Oxygen-suppressed fermentation,LIGHT
+333,1,코스타리카 나란호 카틀레야,코스타리카,,,Natural,LIGHT
+334,1,수마트라 바탁 트리플 픽드,인도네시아,,,Wet-Hulled,LIGHT
+335,1,콜롬비아 나리뇨,콜롬비아,,,,LIGHT
+336,1,수마트라 린통,인도네시아,,,,MEDIUM
+337,1,에티오피아 시다모 사사바,에티오피아,,,Natural,LIGHT
+338,1,파나마 파카마라 내추럴,파나마,,Pacamara,Natural,LIGHT
+339,1,코스타리카 라 토보바 레드 허니,코스타리카,,,Red Honey,LIGHT
+340,1,필리핀 헤리티지 마이크로롯,필리핀,,,,MEDIUM
+341,1,수유사마 콜롬비아,콜롬비아,,,,LIGHT
+342,1,코스타리카 로스 토레스 마이크로롯 블랙 허니,코스타리카,,,Black Honey,LIGHT
+343,1,에티오피아 샨타웨네,에티오피아,,,Washed,LIGHT
+344,1,과테말라 엘라 여성 농장,과테말라,Women-Owned Farms,,,LIGHT
+345,1,카우 옐로우 버본,하와이,,Bourbon,,LIGHT
+346,1,갤럭시 게샤 킨디오 콜롬비아 에드윈 노레냐,콜롬비아,Edwin Noreña,Gesha,Anaerobic,LIGHT
+347,1,코나 포인투 로리나,하와이,Kona Farm Direct,Pointu Laurina,,MEDIUM
+348,1,미난가 빌리지 술라웨시,인도네시아,,,,LIGHT
+349,1,허니드 플로랄,에티오피아,,,Washed,LIGHT
+350,1,에티오피아 시다모 내추럴 워터 디카프,에티오피아,,,Natural,LIGHT
+351,1,케냐 와치우리,케냐,,,,MEDIUM
+352,1,알리산 타이완,타이완,,,,LIGHT
+353,1,과테말라 마라빌라스,과테말라,,,,LIGHT
+354,1,파나마 하시엔다 라 에스메랄다 게이샤 워시드,파나마,Hacienda La Esmeralda,Geisha,Washed,MEDIUM
+355,1,에티오피아 내추럴 구지 케르차 롯 리버사이드,에티오피아,,,Natural,LIGHT
+356,1,나노 겐지 #7,에티오피아,,,Washed,LIGHT
+357,1,파나마 에스메랄다 게이샤 내추럴,파나마,Hacienda La Esmeralda,Gesha,Natural,LIGHT
+358,1,콩고 마이티 피스 만펀도,콩고 민주 공화국,,,,LIGHT
+359,1,에티오피아 예가체프 방코 고티티 G1 내추럴,에티오피아,,,Natural,LIGHT
+360,1,에티오피아 시다모 워시드 G1 트와코크 롯,에티오피아,,,Washed,LIGHT
+361,1,코나아로마 다이렉트 트레이드 코나,하와이,,,,MEDIUM
+362,1,에콰도르 로하 이사단 라 파파야 부르본 시드라 168시간 애너로빅 내추럴,에콰도르,Hacienda La Papaya,Bourbon Sidra,Anaerobic Natural,LIGHT
+363,1,에티오피아 워시드 샤키소 모르모라 74112,에티오피아,,74112,Washed,LIGHT
+364,1,카우 트로피컬 펀치,하와이,,,Washed,LIGHT
+365,1,라 에스페란사 콜롬비안 내츄럴 X.O.,콜롬비아,,,Natural,LIGHT
+366,1,콜롬비아 라 시리아 게이샤,콜롬비아,,Geisha,Washed,LIGHT
+367,1,브라질 내추럴 벨로소 에스테이트,브라질,Veloso Estate,,Natural,LIGHT
+368,1,콜롬비아,콜롬비아,,,,HEAVY
+369,1,에티오피아 내추럴 구지 함벨라 SASA 10,에티오피아,,,Natural,LIGHT
+370,1,에티오피아 구지 사키차 JH144,에티오피아,,,Anaerobic,LIGHT
+371,1,온두라스 블루 홀 에스테이트,온두라스,,,Natural,LIGHT
+372,1,에티오피아 구지 함벨라 북사이사 내츄럴,에티오피아,,,Natural,LIGHT
+373,1,에티오피아 구지 고로 베데사,에티오피아,,,Washed,LIGHT
+374,1,파나마 에스메랄다 수퍼 마리오 게이샤,파나마,Hacienda La Esmeralda,Geisha,Yeast Washed,LIGHT
+375,1,에티오피아 이르가체프 아와사,에티오피아,,,Washed,LIGHT
+376,1,니카라과 미에리시 피카마라 하니,니카라과,Finca La Huella,Pacamara,Honey,LIGHT
+377,1,과테말라 돈 앙헬,과테말라,,,,LIGHT
+378,1,라요 델 솔,페루,null,null,null,LIGHT
+379,1,100% 유기농 스페셜티 아라비카,멕시코,,Arabica,,MEDIUM
+380,1,콜롬비아 루즈 헬레나 살라자르 와인 이스트 포도 허니,콜롬비아,,Castillo,Fermented,LIGHT
+381,1,에티오피아 내추럴 예가체프 반코 고티티,에티오피아,,,Natural,LIGHT
+382,1,심포니 코스타리카 카네트 카투라 건포도 허니,코스타리카,,Caturra,Honey,LIGHT
+383,1,콜롬비아 플라나다스 이바게,콜롬비아,,Pink Bourbon,Anaerobic Natural,LIGHT
+384,1,부룬디 두코레리카와 내추럴,부룬디,,,Natural,LIGHT
+385,1,잠비아 마핑가 힐즈 내추럴,잠비아,,,Natural,LIGHT
+386,1,페루 게샤 리미티드 릴리스 호머 알라르콘 가요소,페루,,Gesha,Washed,LIGHT
+387,1,라 파파야 에콰도르 게이샤 내추럴,에콰도르,,Gesha,Natural,LIGHT
+388,1,2020 사바지 옥션 데보라 카보닉 마세레이트 내추럴 게이샤,파나마,,Geisha,Carbonic-Macerated Natural,LIGHT
+389,1,에티오피아 게디요 코체레 시포,에티오피아,,,Washed,LIGHT
+390,1,코나 아로마 다이렉트 트레이드 코나,하와이,,,,MEDIUM
+391,1,온두라스 로스 아미고스,온두라스,El Soccoro,,Natural,LIGHT
+392,1,에티오피아 시다모 아세파 74158 SLD 내추럴,에티오피아,,74158,Natural,LIGHT
+393,1,에티오피아 이디도 웨기다,에티오피아,,,Washed,LIGHT
+394,1,카린둔두 케냐,케냐,,,,LIGHT
+395,1,온두라스,온두라스,,,,LIGHT
+396,1,루완다 가타레 나마셰케,르완다,,,,LIGHT
+397,1,레드 부르봉 내추럴 익스클루시브 리저브,하와이,Hala Tree Kona Coffee,Bourbon,Natural,LIGHT
+398,1,파푸아 뉴기니 카가무가 내추럴,파푸아 뉴기니,,,Natural,LIGHT
+399,1,은행고티티 에티오피아,에티오피아,,,Washed,LIGHT
+400,1,과테말라 게이샤,과테말라,,Geisha,Washed,LIGHT
+401,1,콜롬비아 카우카 그란하 파라이소 92 – 핑크 버본,콜롬비아,Granja Paraiso 92,Pink Bourbon,Anaerobic,LIGHT
+402,1,코스타리카 코르디예라 데 푸에고,코스타리카,,,,LIGHT
+403,1,사바나 레돈다 SL28 코스타리카,코스타리카,,SL28,,LIGHT
+404,1,코나 피베리,하와이,null,Typica,null,LIGHT
+405,1,페루 치리노이스,페루,,,,LIGHT
+406,1,에티오피아 시다마 벤사 농부 타미루 74158 내추럴,에티오피아,Tamiru,74158,Natural,LIGHT
+407,1,콜롬비아 카스틸로 과일 매세레이션 시리즈 (포도),콜롬비아,,Castillo,Maceration,LIGHT
+408,1,콜롬비아 후일라 로스 라고스 워시드 게이샤,콜롬비아,,Gesha,Washed,LIGHT
+409,1,에티오피아 구지 비샬라,에티오피아,,,Washed,LIGHT
+410,1,코스타리카 로스 세드로스,코스타리카,,,,LIGHT
+411,1,브라질 이비코아라 차파다 지아만치나 내추럴,브라질,,,Natural,MEDIUM
+412,1,콜롬비아 산 루이스 게샤,콜롬비아,,Gesha,Honey,LIGHT
+413,1,콜롬비아 그란하 파라이소-92- 파파요 코지,콜롬비아,Granja Paraíso,Papayo,null,LIGHT
+414,1,타피카 내추럴,하와이,Hala Tree Kona Coffee,Typica,Natural,MEDIUM
+415,1,에티오피아 카욘 마운틴,에티오피아,,,Natural,LIGHT
+416,1,아이티 블루 좀비 디저트,아이티,,,,LIGHT
+417,1,로라의 레저브 SL34,하와이,Hula Daddy Kona Coffee,SL34,,LIGHT
+418,1,에티오피아 내추럴 예가체프 부르투카나 단체,에티오피아,,,Natural,LIGHT
+419,1,코스타리카 세로 드래곤 게이샤 허니,코스타리카,,Gesha,Honey,LIGHT
+420,1,살바도르 코나,하와이,,,,MEDIUM
+421,1,콜롬비아 핀카 라 프리마베라 시드라,콜롬비아,Finca La Primavera,Sidra,,LIGHT
+422,1,루그마파타 에콰도르,에콰도르,,,,LIGHT
+423,1,에티오피아 이어 캔디,에티오피아,,,Natural,LIGHT
+424,1,핀카 엘 포트레로,과테말라,Finca El Potrero,,,LIGHT
+425,1,케냐 인지 케비가라 AA,케냐,,,Washed,LIGHT
+426,1,에티오피아 예가체프 아다도,에티오피아,,,Washed,LIGHT
+427,1,콜롬비아 라 팔마 이 엘 투칸 게샤 내추럴,콜롬비아,La Palma y El Tucán,Gesha,Natural,LIGHT
+428,1,키부 드 콘고,콩고 민주 공화국,,Bourbon,,LIGHT
+429,1,에티오피아 예가체프 워카 사카로,에티오피아,,,,LIGHT
+430,1,수마트라 타노 바탁,인도네시아,,,,LIGHT
+431,1,윌턴 베니테즈 타비 VIP 콜롬비아,콜롬비아,,Tabi,Anaerobic,LIGHT
+432,1,엘살바도르 파카마라,엘살바도르,,Pacamara,,MEDIUM
+433,1,에티오피아 벤치마지 루시 스테이션 워시드 게이샤,에티오피아,Lucy Station,Geisha,Washed,LIGHT
+434,1,로라의 리저브 SL34,하와이,Hula Daddy Kona Coffee,SL34,,LIGHT
+435,1,볼리비아 핀카 엘 아르칸헬,볼리비아,Finca El Arcangel,,,LIGHT
+436,1,바리추 더블,케냐,,,,LIGHT
+437,1,모닝 리프레시,케냐,,,,LIGHT
+438,1,에쿠아도르 핀카 카롤리나 파우스토 로모,에쿠아도르,Finca Carolina,,,LIGHT
+439,1,커페아 디버사 부르본 레이 자메이카,자메이카,,Bourbon,,LIGHT
+440,1,과테말라,과테말라,,,,MEDIUM
+441,1,코스타리카 센트럴 밸리 브랜디 볼,코스타리카,,,Natural,LIGHT
+442,1,푸트힐스 시리즈 함벨라 에티오피아,에티오피아,,,Natural,LIGHT
+443,1,브라질 가우리로바 내추럴,브라질,,,Natural,LIGHT
+444,1,코나 울루웨히 SL34,하와이,,SL34,,LIGHT
+445,1,내추럴 티피카 아네로빅,하와이,Hala Tree Kona Coffee,Typica,Anaerobic,LIGHT
+446,1,과테말라 핀카 산헤라르도,과테말라,Finca San Gerardo,,,LIGHT
+447,1,코나 엑스트라 팬시,하와이,,,,LIGHT
+448,1,나르샤 게샤,에티오피아,,Gesha,Washed,LIGHT
+449,1,케냐 168,케냐,,,,LIGHT
+450,1,과테말라 엘 미라도르,과테말라,,,,LIGHT
+451,1,과테말라 로스 산토스,과테말라,,,,LIGHT
+452,1,허니 티피카,하와이,,Typica,Honey,LIGHT
+453,1,카우 클래식 미디엄 로스트,하와이,,Typica,,MEDIUM
+454,1,후예 마운틴 론다,르완다,,,,LIGHT
+455,1,과테말라 카를로스 리바스,과테말라,,,,LIGHT
+456,1,케냐 키리냐가 키이,케냐,,,,LIGHT
+457,1,파나마 핀카 데보라 애프터글로우 게이샤 내추럴,파나마,Finca Deborah,Gesha,Natural,LIGHT
+458,1,기가사 내추럴,에티오피아,,,Natural,LIGHT
+459,1,에티오피아 제라 겐지 찰라,에티오피아,,,Washed,LIGHT
+460,1,에티오피아 타미루 타데세 내츄럴,에티오피아,,,Natural,LIGHT
+461,1,코스타리카 라스 라하스 레드 허니,코스타리카,Las Lajas,,Red Honey,MEDIUM
+462,1,예멘 알 마쉬탈 알 부르하니,예멘,,,,LIGHT
+463,1,에스테이트 핀카 라 리나,콜롬비아,Finca La Lina,,,LIGHT
+464,1,수마트라 린통,인도네시아,,,,LIGHT
+465,1,세로 아줄 게이샤 허니 프로세스,콜롬비아,,Gesha,Honey,LIGHT
+466,1,르완다 카람비 스테이션 내추럴,르완다,Karambi Station,,Natural,LIGHT
+467,1,콜롬비아 핀카 라 에스파냐 게샤,콜롬비아,Finca La España,Gesha,Washed,LIGHT
+468,1,태국 싱글 오리진 하이브리드 허니 아네로빅 프로세스,태국,,Hybrid,Anaerobic,LIGHT
+469,1,과테말라 아야르사 내추럴,과테말라,,,Natural,LIGHT
+470,1,무란가 케냐,케냐,,,,LIGHT
+471,1,니카라과 라 베네디지온 SL28 내추럴,니카라과,,SL28,Natural,LIGHT
+472,1,엘살바도르 핀카 킬리만자로,엘살바도르,Finca Kilimanjaro,,,MEDIUM
+473,1,콜롬비아 라보야노,콜롬비아,,,Washed,LIGHT
+474,1,에티오피아 올론소 케카,에티오피아,,,Anaerobic,LIGHT
+475,1,부르봉 퐁투 내추럴,하와이,Kona Farm Direct,Bourbon Pointu,Natural,LIGHT
+476,1,필리핀 시티오 벨리스,필리핀,,,Washed Anaerobic,LIGHT
+477,1,콜롬비아 게이샤 코르디예라,콜롬비아,,Geisha,,LIGHT
+478,1,할로 하르투메,에티오피아,,,,LIGHT
+479,1,에티오피아 벤치 마지 게이샤 G1 내추럴,에티오피아,,Gesha,Natural,LIGHT
+480,1,탈퀘살라 엘살바도르,엘살바도르,,,,LIGHT
+481,1,콜롬비아 후일라 라 에스페란자 핑크 버본 허니,콜롬비아,,Pink Bourbon,Honey,LIGHT
+482,1,내추럴 카우 마라고지페,하와이,,Maragogipe,Natural,LIGHT
+483,1,파나마 에스메랄다 게이샤 포르톤 오로 이스트,파나마,Portón Oro,Geisha,Natural,LIGHT
+484,1,#She_Builds,아이티; 에티오피아,,,,LIGHT
+485,1,에티오피아 구지 함벨라 부쿠 아벨 내츄럴 G1,에티오피아,,,Natural,LIGHT
+486,1,에티오피아 예가체프 보타바 G1,에티오피아,,,Washed,LIGHT
+487,1,탄자니아 타리메 AB,탄자니아,,,,LIGHT
+488,1,트라이던트 카르모 데 미나스,브라질,,,,LIGHT
+489,1,케냐 뉴에리 마간조 AB,케냐,,,,LIGHT
+490,1,온두라스 아타나시오 놀라스코,온두라스,,,,MEDIUM
+491,1,커페아 다이버사 옐로우 달레 허니,과테말라,,Coffea Diversa,Honey,LIGHT
+492,1,에티오피아 베다투 워시드,에티오피아,,,Washed,LIGHT
+493,1,코르디예라 델 후에고 코스타리카 아나에로빅,코스타리카,,,Anaerobic,LIGHT
+494,1,니카라과 라 후엘라 카투아이,니카라과,,Catuai,,LIGHT
+495,1,판탄 무사라 수마트라,인도네시아,,,Washed,LIGHT
+496,1,핀카 포토시 아나에로빅,콜롬비아,Finca Potosi,,Anaerobic,LIGHT
+497,1,케냐 테레무카 AB,케냐,,,,LIGHT
+498,1,핀카 로사리오 데 파티마,과테말라,Finca Rosario de Fátima,,,LIGHT
+499,1,콜롬비아 UVI 코치다스,콜롬비아,,,,LIGHT
+500,1,에티오피아 고라 코네 시다모,에티오피아,,,,LIGHT
+501,1,에티오피아 컵 오브 엑설런스 귀지 내추럴,에티오피아,,,Natural,LIGHT
+502,1,콜롬비아 핀카 엘 파라이소,콜롬비아,Finca El Paraiso,,Anaerobic,LIGHT
+503,1,과테말라 게이샤,과테말라,,Geisha,,LIGHT
+504,1,에티오피아 내추럴 구지 블루 돈키 23,에티오피아,,,Natural,LIGHT
+505,1,에티오피아 내추럴 벤치 마지 루시 스테이션 게샤,에티오피아,Lucy Station,Gesha,Natural,LIGHT
+506,1,엘살바도르 엘 미라도르,엘살바도르,,Pacamara,,LIGHT
+507,1,엠프레스 케냐,케냐,,,,LIGHT
+508,1,파나마 게이샤 핀카 데브라 에코,파나마,Finca Debra Echo,Gesha,null,LIGHT
+509,1,수마트라 판탄 무사라,인도네시아,,,Natural,LIGHT
+510,1,5a 포니엔테,과테말라,,,,MEDIUM
+511,1,에티오피아 예가체프 내추럴 하루 수케 G1,에티오피아,,,Natural,LIGHT
+512,1,케냐 가차타 나이리 AA,케냐,,,,LIGHT
+513,1,윌튼 베니테즈 핑크 보르본 콜롬비아,콜롬비아,,Pink Bourbon,,LIGHT
+514,1,예가체프 게덴 G1 내추럴,에티오피아,,,Natural,LIGHT
+515,1,콜롬비아 수단 루메,콜롬비아,,Sudan Rume,Natural,LIGHT
+516,1,에티오피아 구지,에티오피아,,,Washed,LIGHT
+517,1,에티오피아 북 아벨라,에티오피아,,,Washed,LIGHT
+518,1,에티오피아 시다모 벤사 내추럴 싱글 바리어티 쿠루메 G1,에티오피아,,Kurume,Natural,LIGHT
+519,1,탄자니아 시밀리그완다,탄자니아,,,,LIGHT
+520,1,에티오피아 구지 내추럴 아네로빅 우시 우시 G1,에티오피아,,,Anaerobic,LIGHT
+521,1,코스타리카 페를라 네그라,코스타리카,,,Natural,MEDIUM
+522,1,파나마 나이니티 플러스 페르시 로트 50,파나마,,Gesha,Natural,LIGHT
+523,1,에티오피아 구지 우시 우시 아네로빅 내추럴,에티오피아,,,Anaerobic Natural,LIGHT
+524,1,파나마 아시엔다 라 에스메랄다 게이샤 워시드,파나마,Hacienda La Esmeralda,Gesha,Washed,LIGHT
+525,1,에티오피아 내추럴 구지 다사야 SP,에티오피아,,,Natural,LIGHT
+526,1,레카리 에스테이트 리저브 네팔,네팔,Lekali Estate,,,LIGHT
+527,1,콜롬비아 핀카 엘 베르갈 게이샤/자바 내추럴,콜롬비아,Finca El Vergal,"Geisha, Java",Natural,LIGHT
+528,1,예멘 모카 마타리,예멘,,,,LIGHT
+529,1,케냐 워시드 니에리 힐 팜 AA 탑,케냐,Nyeri Hill Farm,,Washed,LIGHT
+530,1,르완다 심비,르완다,,,,LIGHT
+531,1,에티오피아 워시드 보타바 G1 로트 22/01,에티오피아,,,Washed,LIGHT
+532,1,코스타리카 나라호 다닐로 살라자리아스,코스타리카,Naranjo,,Natural,LIGHT
+533,1,엘살바도르 아나키아 파카마라,엘살바도르,,Pacamara,,LIGHT
+534,1,핀카 라 아우로라 카밀리나 게이샤,파나마,Finca La Aurora,Geisha,Natural,LIGHT
+535,1,코스타리카 테르미코,코스타리카,,,Thermic,LIGHT
+536,1,유기농 파노라마,에티오피아,,,Washed,LIGHT
+537,1,르완다 키니니 빌리지 내추럴,르완다,,,Natural,LIGHT
+538,1,과테말라 빌라토로 아나에로빅,과테말라,,,Anaerobic,LIGHT
+539,1,티나밋 톨리만,과테말라,,,,LIGHT
+540,1,코스타리카 브룬카 리벤세 라스 모라스 블랙 허니,코스타리카,,,Black Honey,LIGHT
+541,1,에티오피아 카욘 마운틴,에티오피아,,,Washed,LIGHT
+542,1,니카라과 크베익 농장 커피,니카라과,Kveik Farmhouse,,Anaerobic,LIGHT
+543,1,노르테 페루,페루,,,,LIGHT
+544,1,에르난 준이가 에콰도르,에콰도르,,,,LIGHT
+545,1,페루 워시드 산타 모니카 게샤,페루,,Gesha,Washed,LIGHT
+546,1,나노 겐지 아가로 게라,에티오피아,,,Washed,MEDIUM
+547,1,옐로 카투라,하와이,Miranda Farms,Yellow Caturra,,LIGHT
+548,1,코에 시다마 보나 74110,에티오피아,,74110,Washed,LIGHT
+549,1,슬34 다크 로스트,하와이,,SL34,,HEAVY
+550,1,에티오피아 내추럴 구지 스위트 레이디,에티오피아,,,Natural,LIGHT
+551,1,엠베구카 케냐,케냐,,,,LIGHT
+552,1,케냐 가쿠유이니 AA,케냐,,,,LIGHT
+553,1,코랄,페루,Finca Tasta,Pacamara,Natural,LIGHT
+554,1,에티오피아 구지 함벨라 부쿠 아벨 슬로우 드라이 내츄럴,에티오피아,,,Natural,LIGHT
+555,1,에티오피아 구지 기르마 내추럴,에티오피아,,,Natural,LIGHT
+556,1,코스타리카 라 파스토라,코스타리카,,,Washed,LIGHT
+557,1,티게시트 와카,에티오피아,,,Natural,LIGHT
+558,1,온두라스 핀카 라 조야 내추럴,온두라스,Finca La Joya,,Natural,MEDIUM
+559,1,에티오피아 시다마 아나로빅,에티오피아,,,Anaerobic,LIGHT
+560,1,콜롬비아 세르히오 롤단,콜롬비아,,,Natural,LIGHT
+561,1,에티오피아 던세 모르모라,에티오피아,,,Washed,LIGHT
+562,1,포인투 로리나,하와이,Hula Daddy Kona Coffee,Pointu Laurina,,MEDIUM
+563,1,에티오피아 함벨라 G1,에티오피아,,,Natural,LIGHT
+564,1,르린도 투바,르완다,,,,LIGHT
+565,1,르완다 힌가카와 여성 협동조합,르완다,,,,LIGHT
+566,1,핀카 샌 카를로스,과테말라,Finca San Carlos,,,LIGHT
+567,1,과테말라 코페아 디버사 게이샤 퀸 허니,과테말라,,Geisha,Honey,LIGHT
+568,1,훙쿠테,에티오피아,,,Washed,LIGHT
+569,1,콜롬비아 그란하 라 에스페란사가 자바,콜롬비아,Granja La Esperanza,Java,Anaerobic,LIGHT
+570,1,바 하버,코스타리카,,,,LIGHT
+571,1,에티오피아 구지 함벨라 쿠두메 옐로우 허니,에티오피아,,,Natural,LIGHT
+572,1,마카레나 콜롬비아,콜롬비아,,,Experimental,LIGHT
+573,1,에티오피아 코체레 G1,에티오피아,,,Natural,LIGHT
+574,1,에티오피아 케라모 제로 옥시전 내추럴,에티오피아,,,Anaerobic,LIGHT
+575,1,툼바 루안다,르완다,,,,LIGHT
+576,1,케냐 가차타,케냐,,,,LIGHT
+577,1,멕시코 라 카냐다 오악사카 오가닉,멕시코,,,,LIGHT
+578,1,케냐 나이리,케냐,,,,LIGHT
+579,1,에티오피아 구지 오도 샤키소,에티오피아,,,Natural,LIGHT
+580,1,에티오피아 시다마 샨테ウェ네,에티오피아,,,Natural,LIGHT
+581,1,코스타리카 라스 라하스 레드 허니,코스타리카,Las Lajas,,Honey,LIGHT
+582,1,에티오피아 구지,에티오피아,,,,LIGHT
+583,1,콜롬비아 레드 밤,콜롬비아,,,Washed,LIGHT
+584,1,콜롬비아 안티오키아 마지코,콜롬비아,,Chiroso,Washed,LIGHT
+585,1,에티오피아 하라르,에티오피아,,,,HEAVY
+586,1,에티오피아 예가체프 G1 내추럴 아스파 마루,에티오피아,,,Natural,LIGHT
+587,1,유기농 페루 산 페르난도 트레스 핀카스 게샤,페루,,Gesha,,LIGHT
+588,1,커페아 디베르사 루메 수단 와인,과테말라,,,,LIGHT
+589,1,콜롬비아 핀카 로드 볼티모어 파파요,콜롬비아,Finca Lord Baltimore,,,LIGHT
+590,1,핀카 산 호세 오카냐,과테말라,Finca San José Ocaña,,,LIGHT
+591,1,코나 K7,하와이,Kona Farm Direct,,,LIGHT
+592,1,콜롬비아 라 에스페란자 내추럴 XO,콜롬비아,,null,Natural,MEDIUM
+593,1,더블 아네로빅 발효 타미루 타데세,에티오피아,,,Anaerobic,LIGHT
+594,1,과테말라 엘 플란 로스마,과테말라,,,,LIGHT
+595,1,르완다 가타레,르완다,,,,LIGHT
+596,1,100% 코나 뷰르본 포인트 로리나,하와이,Hula Daddy Kona Coffee,Pointu Laurina,,LIGHT
+597,1,에티오피아 케라모 워시드,에티오피아,,,Washed,LIGHT
+598,1,에티오피아 구지 우라가 워시드,에티오피아,,,Washed,LIGHT
+599,1,파나마 핀카 레리다 게이샤 세척,파나마,Finca Lerida,Geisha,Washed,LIGHT
+600,1,콜롬비아 아소봄보 인자,콜롬비아,,,,LIGHT
+601,1,콜롬비아 카투라 아나에로빅 내추럴,콜롬비아,,Caturra,Anaerobic,LIGHT
+602,1,콜롬비아 프룻 매세레이션 시리즈 루로 베어,콜롬비아,,,Anaerobic,LIGHT
+603,1,콜롬비아 라 비르헨 마이크로롯,콜롬비아,,,Washed,LIGHT
+604,1,레드 선셋,콜롬비아,,,Honey,LIGHT
+605,1,에티오피아 예가체프 코체레,에티오피아,,,Washed,LIGHT
+606,1,콜롬비아 게이샤,콜롬비아,,Gesha,Anaerobic,LIGHT
+607,1,에티오피아 이디도 틸루세 허니 프로세스,에티오피아,,,Honey,LIGHT
+608,1,페루 아프로셀바,페루,,,,MEDIUM
+609,1,르완다 아바쿤다카와,르완다,Abakundakawa,Bourbon,,LIGHT
+610,1,에티오피아 예가체프 코체르 데보 프리미엄 롯,에티오피아,,,Washed,LIGHT
+611,1,에티오피아 헤르푸사 싱글 바리어티 내추럴,에티오피아,,Single Variety,Natural,LIGHT
+612,1,콜롬비아 라 에스페란사,콜롬비아,,,Washed Anaerobic,LIGHT
+613,1,알라멘다 파투하 커피,인도네시아,,,Honey,MEDIUM
+614,1,콜롬비아 나리뇨 루시도 디아스 핑크 Bourbon,콜롬비아,,Pink Bourbon,,LIGHT
+615,1,콜롬비아 하시엔다 카사블랑카,콜롬비아,Hacienda Casablanca,"Castillo, Geisha",,LIGHT
+616,1,바루 게샤,파나마,,Gesha,Hot Fermentation,LIGHT
+617,1,라 유니온,콜롬비아,,,,LIGHT
+618,1,에티오피아 뱅코 다다토 워시드,에티오피아,,,Washed,LIGHT
+619,1,태국 도이팡콘 다크 로스트,태국,,,,MEDIUM
+620,1,콜롬비아 부에사코,콜롬비아,,,Natural,LIGHT
+621,1,카피탄 마라고지페,멕시코,,Maragogype,,LIGHT
+622,1,Jacmel 하이티,하이티,,,,LIGHT
+623,1,필리핀 시티오 키스봉 애너로빅 내추럴,필리핀,,,Anaerobic,LIGHT
+624,1,르완다 냐마가베 키겜 롯 #4,르완다,,,,LIGHT
+625,1,예멘 하라아즈,예멘,,,,LIGHT
+626,1,시다모 익스트림 파필리오 내추럴,에티오피아,,,Natural,LIGHT
+627,1,케냐 기쳐로리,케냐,,,,LIGHT
+628,1,에티오피아 예가체프 콩가 내추럴,에티오피아,,,Natural,LIGHT
+629,1,자메이카 블루 마운틴,자메이카,,,,LIGHT
+630,1,파나마 엘리다 게이샤 내추럴 1029,파나마,,Gesha,Natural,LIGHT
+631,1,에티오피아 예가체프 G1,에티오피아,,,Natural,LIGHT
+632,1,에티오피아 벤치 마지 내추럴 게샤,에티오피아,,Gesha,Natural,LIGHT
+633,1,에티오피아 카용 마운틴 워시드,에티오피아,,,Washed,LIGHT
+634,1,부지라 부룬디 내추럴,부룬디,,,Natural,LIGHT
+635,1,아우로마르 게이샤 내추럴,파나마,Piedra Candela,Geisha,Natural,LIGHT
+636,1,에티오피아 첼베사,에티오피아,,,Washed,LIGHT
+637,1,푸롱콩,부룬디,,,,LIGHT
+638,1,케냐 키리 피버리,케냐,,Peaberry,,LIGHT
+639,1,크리스탈리나,콜롬비아,,,Natural,LIGHT
+640,1,콜롬비아 자바 엘 에덴,콜롬비아,,Java,Carbonic Maceration,LIGHT
+641,1,서브로사 에티오피아 카욘 마운틴 오가닉 내추럴,에티오피아,,,Natural,LIGHT
+642,1,에콰도르 페냐헤레라 AAA,에콰도르,,,,LIGHT
+643,1,페루 에덴 정원 파르센트 게이샤 아나로빅 워시드,페루,,Gesha,Anaerobic Washed,LIGHT
+644,1,케냐 코뉴,케냐,,,,LIGHT
+645,1,에티오피아 이르가체프,에티오피아,,,Washed,LIGHT
+646,1,온두라스,온두라스,,,,LIGHT
+647,1,에티오피아 예가체프,에티오피아,,,,MEDIUM
+648,1,코스타리카 카넷 레이즌 허니,코스타리카,,,Honey,LIGHT
+649,1,코나 피버리,하와이,,Typica,,LIGHT
+650,1,핀카 후익속 게이샤,과테말라,Finca Huixoc,Geisha,,LIGHT
+651,1,에티오피아 예가체프 하르푸사 G1,에티오피아,,,Washed,LIGHT
+652,1,르완다 가타레 내추럴,르완다,,,Natural,LIGHT
+653,1,코스타리카 타라주 미노르 히메네즈,코스타리카,,,,LIGHT
+654,1,수마트라 판탄 무사라,인도네시아,,,,LIGHT
+655,1,과테말라 COE-NW#2 시에라 호하 게이샤 워시드,과테말라,,Gesha,Washed,LIGHT
+656,1,에콰도르 핀카 라 파파야,에콰도르,Finca La Papaya,,,LIGHT
+657,1,케냐 나이리 키안두 AA,케냐,,,,LIGHT
+658,1,벨라 카르모나 과테말라,과테말라,,,,LIGHT
+659,1,모나크 에스테이트 하와이안 게샤,하와이,Monarch Estate,Gesha,,LIGHT
+660,1,파나마 핀카 산타 테레사,파나마,Finca Santa Teresa,,,LIGHT
+661,1,핀카 쿠시요 볼리비아,볼리비아,Finca Kusillo,,,LIGHT
+662,1,케냐 무투아-이니 AB,케냐,,,,LIGHT
+663,1,코스타리카 라스 라하스 펄라 네그라,코스타리카,Las Lajas,,Natural,LIGHT
+664,1,피닉사 피소피아 게샤 워시드,파나마,Finca Sophia,Gesha,Washed,LIGHT
+665,1,필리핀 시티오 벨리스 가르니카,필리핀,,,Washed,LIGHT
+666,1,에티오피아 예가체프 내추럴,에티오피아,,,Natural,LIGHT
+667,1,파푸아뉴기니 와기밸리 시그리 에스테이트 피베리,파푸아뉴기니,Sigri Estate,,,LIGHT
+668,1,중국 윈난 내츄럴,중국,,,Natural,LIGHT
+669,1,테스티 아일라 더블 에티오피아,에티오피아,,,Anaerobic,LIGHT
+670,1,과테말라 안티구아 파스토레스,과테말라,,,,LIGHT
+671,1,르완다 레버브,르완다,,,,LIGHT
+672,1,코스타리카 라 레홀라 세척 게이샤,코스타리카,La Rejolla,Gesha,Washed,LIGHT
+673,1,칸델리야 게이샤 내추럴,코스타리카,,Gesha,Natural,LIGHT
+674,1,예멘 내추럴 하무드 압둘라 알키셰니,예멘,,,Natural,LIGHT
+675,1,과테말라 아카텐안고 게이샤,과테말라,,Gesha,,LIGHT
+676,1,에티오피아 COE #8 시다마 아르베고나 물레네 투테 갈초 74158 내추럴,에티오피아,Muluneh Tute Galcho,74158,Natural,LIGHT
+677,1,온두라스 마르칼라,온두라스,,,,LIGHT
+678,1,카스티요 엘 파라이스,콜롬비아,,Castillo,,LIGHT
+679,1,에티오피아 시다모 워시드,에티오피아,,,Washed,LIGHT
+680,1,몬테 알반 멕시코,멕시코,,,,LIGHT
+681,1,콜롬비아 핀카 삼보니 게샤 아나에로빅 내추럴,콜롬비아,Finca Samboni,Gesha,Anaerobic Natural,LIGHT
+682,1,시티오 페드라 메니나,브라질,,,,LIGHT
+683,1,케냐,케냐,,,,HEAVY
+684,1,콜롬비아 핀카 산타 마리아 허니 타비,콜롬비아,Finca Santa Maria,Tabi,Honey,LIGHT
+685,1,콜롬비아 핀카 라 로카,콜롬비아,Finca La Roca,,Anaerobic,LIGHT
+686,1,에티오피아 벤치 마지 개샤 와이니 내추럴 G1,에티오피아,,Gesha,Natural,LIGHT
+687,1,케냐 니에리 힐,케냐,,,,LIGHT
+688,1,아라비안 모카-자바 다크 로스트,아프리카/아라비아,,,,HEAVY
+689,1,에티오피아 카라모 내추럴,에티오피아,,,Natural,LIGHT
+690,1,콜롬비아 산 파스쿠알 내추럴,콜롬비아,,,Natural,LIGHT
+691,1,코스타리카 브룬카 핀카 비스타 패션 허니,코스타리카,Finca Vista Passion,,Honey,MEDIUM
+692,1,케냐 키암부 마우아 롯 AB,케냐,,,,LIGHT
+693,1,에티오피아 구지 라이유 내추럴,에티오피아,,,Natural,LIGHT
+694,1,카우 티피카 내추럴,하와이,,Typica,Natural,LIGHT
+695,1,콜롬비아 아네로빅,콜롬비아,,,Anaerobic,LIGHT
+696,1,에티오피아 게디요 예가체프 게데브 방코 고티티 G1 내추럴,에티오피아,,,Natural,LIGHT
+697,1,코스타리카 블랙 허니,코스타리카,,,Black Honey,LIGHT
+698,1,과테말라 핀카 엘 프린시피토 옐로우 카투아이,과테말라,Finca El Principito,Yellow Catuai,Washed,LIGHT
+699,1,홀리데이 커피,하와이,,,,LIGHT
+700,1,케냐 뉴에리 가톰보야,케냐,,,,LIGHT
+701,1,코스타리카 타라주 하시아다 라 프라데라,코스타리카,Hacienda La Pradera,,Washed,MEDIUM
+702,1,엘살바도르 몬테 베르데,엘살바도르,,,,LIGHT
+703,1,코스타리카 카넷 뮤지션 베토벤 효소 세척,코스타리카,,,Enzyme-Washed,LIGHT
+704,1,Y-3 게이샤 아에르라 에스메랄다,파나마,Hacienda Esmeralda,Gesha,,LIGHT
+705,1,나노 촐라,에티오피아,,,,LIGHT
+706,1,케냐 가차타 나이리,케냐,,,,LIGHT
+707,1,쿠시날레스 과테말라,과테말라,,,,LIGHT
+708,1,콩고 우모자,콩고 민주 공화국,,,,LIGHT
+709,1,콜롬비아 핑크 버본,콜롬비아,,Pink Bourbon,,LIGHT
+710,1,케냐 AA 키리냐가 기이,케냐,,,,LIGHT
+711,1,콜롬비아 몬테블랑코 로드리고 산체스 카보닉 매세레이션,콜롬비아,,,Carbonic Maceration,LIGHT
+712,1,콜롬비아 휘라 핀카 몬테블랑코 로드리고 산체스,콜롬비아,Finca Monteblanco,Pink Bourbon,Washed,LIGHT
+713,1,부룬디 미쿠바 허니 마이크로롯 1,부룬디,,,Honey,LIGHT
+714,1,유기농 에티오피아 첼베사 단체,에티오피아,,,Washed,LIGHT
+715,1,키리냐가 Kii 팩토리 AB 탑,케냐,Kii Factory,,,LIGHT
+716,1,콜롬비아 카우카 핀카 엘 파라이소 더블-아나에로빅 플로르 리치,콜롬비아,Finca El Paraiso,,Double-Anaerobic,LIGHT
+717,1,콜롬비아 라 과메라 허니,콜롬비아,,,Honey,LIGHT
+718,1,콜롬비아 그란하 라 에스페란사 라스 마르가리타스 게샤 허니,콜롬비아,Granja La Esperanza,Gesha,Honey,LIGHT
+719,1,콜롬비아 핑크 부르봉,콜롬비아,,Pink Bourbon,,LIGHT
+720,1,에티오피아 내추럴 구지 모렐 플로럴 쿠두메,에티오피아,,,Natural,LIGHT
+721,1,오아후 트리플 보르본 스파클링 이스트 발효,하와이,,Bourbon,Fermented,LIGHT
+722,1,에티오피아 할로 베리티,에티오피아,,,Washed,LIGHT
+723,1,파나마 스태틱 게샤 내추럴,파나마,,Gesha,Natural,LIGHT
+724,1,에티오피아 첼베사 단체,에티오피아,,,Natural,LIGHT
+725,1,라 파파야 내추럴 에콰도르,에콰도르,,,Natural,LIGHT
+726,1,케냐 워시드 뇌리 기차타이니 팩토리 AB,케냐,Gichathaini Factory,,Washed,LIGHT
+727,1,케냐 카훈요 AA,케냐,,,,LIGHT
+728,1,카비우파 파푸아뉴기니,파푸아뉴기니,,,,LIGHT
+729,1,콜롬비아 안티오키아 내추럴 카보닉 매세레이션 카투라,콜롬비아,,Caturra,Natural Carbonic Maceration,LIGHT
+730,1,르완다 범보고,르완다,,,,LIGHT
+731,1,에티오피아 오로미아 구지 워시드,에티오피아,,,Washed,LIGHT
+732,1,페루 야네샤 게이샤,페루,,Geisha,,LIGHT
+733,1,콜롬비아 핀카 루이사 후안 파블로 탄산 발효,콜롬비아,Finca Luisa,,Carbonic Maceration,LIGHT
+734,1,과테말라 아카테낭고 게샤 롯 2,과테말라,,Gesha,Washed,LIGHT
+735,1,콜롬비아 세로 아줄 에나노,콜롬비아,,Enano,,LIGHT
+736,1,세인트 벤자민,케냐,,,Washed,MEDIUM
+737,1,카리루 케냐,케냐,,,,LIGHT
+738,1,코스타리카 나란조 다닐로 사라사리아스,코스타리카,,,Natural,LIGHT
+739,1,에티오피아 구지 우시 우시,에티오피아,,,,LIGHT
+740,1,에티오피아 시다마 부르사 케벨라 워시드,에티오피아,,,Washed,LIGHT
+741,1,예멘 알 카울라 스페셜 레저브 내추럴,예멘,,,Natural,LIGHT
+742,1,콜롬비아 핑크 버본 허니,콜롬비아,,Pink Bourbon,Honey,LIGHT
+743,1,홀리데이 리저브 로스트 — 코스타리카 테미코,코스타리카,,,Experimental,LIGHT
+744,1,에티오피아 하마쇼 워시드,에티오피아,,,Washed,LIGHT
+745,1,케냐 키암부 AB 우클리 1905 로트,케냐,,,,LIGHT
+746,1,에이징 수마트라 세미가,인도네시아,,,,HEAVY
+747,1,라 파파야 에콰도르,에콰도르,,Typica,,LIGHT
+748,1,핀카 킬리만자로 내추럴,엘살바도르,Finca Kilimanjaro,,Natural,LIGHT
+749,1,케냐 워시드 키암부 기타투 AB 탑,케냐,,,Washed,LIGHT
+750,1,에티오피아 워시드 시다마 벤사 봄베,에티오피아,,,Washed,LIGHT
+751,1,멕시코 치아пас 쿨라틱,멕시코,,,,MEDIUM
+752,1,수마트라 가요 킹 만델링,인도네시아,,,,MEDIUM
+753,1,콜롬비아 푸담 나리노,콜롬비아,,,,LIGHT
+754,1,에티오피아 수케 쿠토 허니,에티오피아,,,Honey,LIGHT
+755,1,에티오피아 콩가,에티오피아,,,Washed,MEDIUM
+756,1,게이샤 빌리지 옥션 롯 #11,에티오피아,,Gesha,,LIGHT
+757,1,니나티 플러스 파나마 게샤 에스테이트 MS 조셉 브로드스키 2307,파나마,Gesha Estate,Gesha,,LIGHT
+758,1,탄자니아 피베리,탄자니아,,,,LIGHT
+759,1,코스타리카 테르미코,코스타리카,,,,LIGHT
+760,1,대만 송월 게이샤,대만,,Geisha,Natural,LIGHT
+761,1,미라플로레스 콜롬비아,콜롬비아,,,,LIGHT
+762,1,에티오피아 내추럴 시다마 74158,에티오피아,,74158,Natural,LIGHT
+763,1,에티오피아 예가체프 아리차 G1,에티오피아,,,Washed,LIGHT
+764,1,콜롬비아 호르헤 엘리 두산,콜롬비아,,,,LIGHT
+765,1,엘 살바도르 라스 델리시아스 파카마라,엘살바도르,,Pacamara,,LIGHT
+766,1,윈터 2022 알로케이션 콜롬비아,콜롬비아,,Wush Wush,Carbonic Maceration,LIGHT
+767,1,훈쿠파 내추럴 과테말라,과테말라,,,Natural,LIGHT
+768,1,브라질 파젠다 사만바이아 내추럴 페르멘테이션 아라라,브라질,Fazenda Samambaia,,Natural,LIGHT
+769,1,엘살바도르 엘 마타사노 파카마라,엘살바도르,,Pacamara,,LIGHT
+770,1,타이완 내추럴 미디엄 로스트,타이완,,,Natural,LIGHT
+771,1,에티오피아 카파 내추럴,에티오피아,,,Natural,LIGHT
+772,1,이스트 포티넛,탄자니아,,,,MEDIUM
+773,1,부룬디 키빙고,부룬디,,Burundi hybrid,Natural,LIGHT
+774,1,메이팝,콜롬비아,,,,LIGHT
+775,1,에티오피아 반코 고티티 다니엘 미하네,에티오피아,,,Washed,LIGHT
+776,1,에티오피아 워카 사카로 아네로빅 내추럴,에티오피아,,,Anaerobic,LIGHT
+777,1,케냐 사파리 AB 탑,케냐,,,,MEDIUM
+778,1,에티오피아 예가체프 첼레렉투 내추럴,에티오피아,,,Natural,LIGHT
+779,1,5a Sur,과테말라,,,,MEDIUM
+780,1,에티오피아 아네로빅 샨타웨네,에티오피아,,,Anaerobic,LIGHT
+781,1,과테말라 아카텐안고 게샤,과테말라,,Gesha,,LIGHT
+782,1,케냐 나이리 누두루투 팩토리 AB,케냐,Nudurutu Factory,,,LIGHT
+783,1,케냐 카구모 AB,케냐,,,,LIGHT
+784,1,코나 미디엄 로스트,하와이,,,,LIGHT
+785,1,코스타리카 카넷 뮤지션 시리즈 바흐 레이즌 허니,코스타리카,,,Honey,LIGHT
+786,1,콜롬비아 파다므 나리뇨,콜롬비아,FUDAM,,Washed,LIGHT
+787,1,과테말라 벨라 카르모나,과테말라,,,,LIGHT
+788,1,에티오피아 케라모 내추럴,에티오피아,,,Natural,LIGHT
+789,1,콜롬비아 핀카 라스 아무레스,콜롬비아,Finca Las Nubes,,,LIGHT
+790,1,에티오피아 FTO,에티오피아,,,Washed,LIGHT
+791,1,에티오피아 레초 토르카,에티오피아,,,Washed,LIGHT
+792,1,핀카 산타 이사벨,과테말라,Finca Santa Isabel,Caturra,,LIGHT
+793,1,케냐 가차타 AA 탑,케냐,,,,LIGHT
+794,1,에티오피아 카욘 마운틴 내추럴,에티오피아,,,Natural,LIGHT
+795,1,엘사바도르 핀카 엘 세로 내추럴,엘살바도르,Finca El Cerro,Pacamara,Natural,LIGHT
+796,1,에티오피아 예가체프 이스트 프로세스,에티오피아,,,Yeast Process,LIGHT
+797,1,에티오피아 시다마 타미루 타데세 아네로빅 내추럴 스페셜 옥션 롯,에티오피아,,,Anaerobic,LIGHT
+798,1,콜롬비아 우시우시,콜롬비아,,Ethiopian Wush Wush,,MEDIUM
+799,1,베트남 로부스타 카보닉 매세레이션,베트남,,Robusta,Carbonic Maceration,LIGHT
+800,1,케냐 AA 탑 가톰보야,케냐,,,,LIGHT
+801,1,냐키반다 루안다,르완다,,,,LIGHT
+802,1,수단 루메,콜롬비아,,Sudan Rume,,LIGHT
+803,1,콜롬비아 핑크 부르번 농장 협업,콜롬비아,,Pink Bourbon,,LIGHT
+804,1,과테말라 벨라 카르모나,과테말라,,,,LIGHT
+805,1,에티오피아 시다모 벤사 워시드 G1,에티오피아,,,Washed,LIGHT
+806,1,에티오피아 베르그우 SP 시리즈: 우리 레드 체리,에티오피아,,,Experimental,MEDIUM
+807,1,에티오피아 예가체프 제이드 로터스,에티오피아,,,Washed,LIGHT
+808,1,알리산 내추럴,대만,,,Natural,LIGHT
+809,1,코스타리카 라 추메카,코스타리카,,,Natural,LIGHT
+810,1,케냐 카라티나,케냐,,,,LIGHT
+811,1,에티오피아 콩가 내추럴,에티오피아,,,Natural,LIGHT
+812,1,예멘 모카 하라지,예멘,,,,LIGHT
+813,1,코나 모카,하와이,,,,MEDIUM
+814,1,에티오피아 타데세 욘카,에티오피아,,,Washed,LIGHT
+815,1,산투아리오 게샤 #113,콜롬비아,,Gesha,,LIGHT
+816,1,온두라스 핀카 라스 모라스 파라이나마 옐로우 허니,온두라스,Finca Las Moras,Parainema,Honey,LIGHT
+817,1,세리 세리 메리아 커피,인도네시아,,,,LIGHT
+818,1,에티오피아 구지 부쿠,에티오피아,,,Natural,LIGHT
+819,1,콜롬비아 톨리마 핀카 엘 베르헬 레벨 기샤,콜롬비아,Finca El Vergel,Gesha,,LIGHT
+820,1,콜롬비아 핑크 보르본 허니,콜롬비아,,Pink Bourbon,Honey,LIGHT
+821,1,안디 수마트라,인도네시아,,,,LIGHT
+822,1,콜롬비아 라 에스페란사 100% 게이샤 하나슈카,콜롬비아,,Geisha,Natural,LIGHT
+823,1,에티오피아 오돌라 워시드,에티오피아,,,Washed,LIGHT
+824,1,케냐 룽게토,케냐,,,,LIGHT
+825,1,에스페란자 비야 사르치,과테말라,,Villa Sarchi,,LIGHT
+826,1,밤베 내추럴 시다마,에티오피아,,,Natural,LIGHT
+827,1,콜롬비아 엑시토 데 알투라,콜롬비아,,,Washed,LIGHT
+828,1,에티오피아 2022 COE#25 내추럴 타데세 74112,에티오피아,,74112,Natural,LIGHT
+829,1,대만 내추럴 알리산 주오우 농장 게이샤,대만,Zhuo-Wu Farm,Gesha,Natural,LIGHT
+830,1,에티오피아 워시드 코체레,에티오피아,,,Washed,LIGHT
+831,1,에티오피아 예가체프 팜게이트,에티오피아,,,Natural,LIGHT
+832,1,케냐 워시드 키암부 윈드러쉬 AA,케냐,,,Washed,LIGHT
+833,1,콜롬비아 핑크 버본 엘 코라존,콜롬비아,,Pink Bourbon,,LIGHT
+834,1,케냐 무룽가 뉴 가탕가 FCS 무쿠르웨 공장 AB,케냐,Mukurwe Factory,,,LIGHT
+835,1,페루 루크마밤바,페루,,,,LIGHT
+836,1,에티오피아 게덥 워카 후리,에티오피아,,,Washed,LIGHT
+837,1,코나 미디엄-다크 로스트,하와이,,,,MEDIUM
+838,1,뱅코 고테테 에티오피아,에티오피아,,,Washed,LIGHT
+839,1,수마트라 아체 가요 마운틴 케나왓 건포도 허니,인도네시아,,,Honey,LIGHT
+840,1,케냐 주리,케냐,,,,MEDIUM
+841,1,에티오피아 벤치마지 루시 스테이션 게이샤,에티오피아,Lucy Station,Geisha,Washed,LIGHT
+842,1,과테말라 핀카 부에나 에스페란자,과테말라,Finca Buena Esperanza,,Washed,LIGHT
+843,1,에티오피아 두로미나 아가로 게라,에티오피아,,,Washed,LIGHT
+844,1,케냐 키암부 키리가 AA,케냐,,,,LIGHT
+845,1,에티오피아 시다모 고라 코네,에티오피아,,,,LIGHT
+846,1,수마트라 타노 바탁,인도네시아,,,,LIGHT
+847,1,에티오피아 우라가 담비 우도 웻 발효,에티오피아,,,Wet-Fermented,LIGHT
+848,1,카우 부르봉 샴페인 내추럴,하와이,,Bourbon,Natural,LIGHT
+849,1,허니듀 코스타리카,코스타리카,,,Honey,LIGHT
+850,1,윌턴 베니테즈 게이샤,콜롬비아,,Gesha,,LIGHT
+851,1,구지 오라가 타베,에티오피아,,,Washed,LIGHT
+852,1,부룬디 카바로레 커뮤니,부룬디,,,Washed,LIGHT
+853,1,케냐 SL34,케냐,,SL34,,LIGHT
+854,1,과테말라 케히나,과테말라,,,,LIGHT
+855,1,케냐 AB,케냐,,,,MEDIUM
+856,1,나요 오발레 과테말라,과테말라,,,,LIGHT
+857,1,온두라스 엘 레톤,온두라스,,,Natural,LIGHT
+858,1,과테말라 엘 이인헤르토 파카마라,과테말라,El Injerto,Pacamara,,LIGHT
+859,1,버하누 시스터스 에티오피아,에티오피아,,,Washed,LIGHT
+860,1,돈 호세 & 이사벨 자연 과일 교향곡,니카라과,,,Natural,LIGHT
+861,1,에티오피아 게샤 빌리지 일루바바 숲 22/043,에티오피아,Gesha Village,Gesha,Natural,LIGHT
+862,1,미란다 농장 하와이 카투라,하와이,Miranda’s Farms,Caturra,Hybrid,LIGHT
+863,1,게샤 빌리지 1931 롯 27,에티오피아,Gesha Village,Gesha,Washed,LIGHT
+864,1,케냐 가투야,케냐,,,,LIGHT
+865,1,파나마 엘 부르로 에스테이트 내추럴 게샤,파나마,El Burro Estate,Gesha,Natural,LIGHT
+866,1,4&20 프렌치 로스트,니카라과,,,,MEDIUM
+867,1,케냐 SHI,케냐,,,,LIGHT
+868,1,후타 라자 내추럴,인도네시아,,,Natural,LIGHT
+869,1,라 벨레자 콜롬비아,콜롬비아,,,,LIGHT
+870,1,콜롬비아 게이샤,콜롬비아,,Geisha,,LIGHT
+871,1,에티오피아 리무 워시드,에티오피아,,,Washed,LIGHT
+872,1,몬테 알반 멕시코,멕시코,,,,LIGHT
+873,1,기가사 에티오피아,에티오피아,,,Washed,LIGHT
+874,1,콜롬비아 그란하 파라이스 자바 P14,콜롬비아,Granja Paraíso,Java,,LIGHT
+875,1,수마트라 판탄 무사라,인도네시아,,,Washed,LIGHT
+876,1,GW01 핀카 소피아 올림푸스 개시야,파나마,Finca Sophia,Gesha,,LIGHT
+877,1,파나마 아시엔다 라 에스메랄다 슈퍼 마리오 게이샤,파나마,Hacienda La Esmeralda,Geisha,,LIGHT
+878,1,코스타리카 SL28 내추럴,코스타리카,,SL28,Natural,LIGHT
+879,1,과테말라 허니 아카텐고 핀카 엘 제너럴 부르봉,과테말라,Finca El General,Bourbon,Honey,LIGHT
+880,1,에티오피아 시다모 파이셀 압도쉬 아네로빅 내추럴,에티오피아,,,Anaerobic,LIGHT
+881,1,에티오피아 구지 우라가 테베 부르쿠 내추럴,에티오피아,,,Natural,LIGHT
+882,1,에티오피아 구지 블레 호라 블루 나일 내추럴,에티오피아,,,Natural,LIGHT
+883,1,온두라스 카투아이/부르봉,온두라스,,Catuai/Bourbon,,LIGHT
+884,1,에티오피아 카욘 마운틴 내추럴,에티오피아,,,Natural,MEDIUM
+885,1,코스타리카 카틀레야 아네로빅,코스타리카,,,Anaerobic,LIGHT
+886,1,에티오피아 예가체프 콩가 씻은 가공,에티오피아,,,Washed,LIGHT
+887,1,로라의 리저브 SL34,하와이,Hula Daddy Kona Coffee,SL34,,LIGHT
+888,1,에티오피아 첼베사,에티오피아,,,,LIGHT
+889,1,에티오피아 내추럴 예가체프 블루 돈키 로트 #2,에티오피아,,,Natural,LIGHT
+890,1,컴바 #3 부룬디,부룬디,,,,LIGHT
+891,1,루안다,르완다,,,,HEAVY
+892,1,하와이 카우 부르봉 아네로빅 내추럴,하와이,,Bourbon,Anaerobic,LIGHT
+893,1,수단 루메,콜롬비아,,Sudan Rume,,LIGHT
+894,1,에티오피아 시다마 케라모 빌리지,에티오피아,,,Washed,LIGHT
+895,1,트러스트 더 프로세스,콜롬비아,Los Naranjos,,Natural,LIGHT
+896,1,콜롬비아 라 빅토리아,콜롬비아,,,,LIGHT
+897,1,에티오피아 라로 보다,에티오피아,,,Washed,LIGHT
+898,1,레레스 가르트 자바,인도네시아,,,Washed,LIGHT
+899,1,페루 팔타차욕,페루,,,,MEDIUM
+900,1,수마트라 타켄곤 가요 내추럴,인도네시아,,,Natural,LIGHT
+901,1,테레무카 케냐,케냐,,,,LIGHT
+902,1,하와이 카우 클래식 다크,하와이,,,,MEDIUM
+903,1,하라즈 레드,예멘,,,,LIGHT
+904,1,코스타리카 아나에로빅,코스타리카,,,Anaerobic,LIGHT
+905,1,마마 카타 모끼타,파나마,,Mokka,,LIGHT
+906,1,차카야 산티아고 아티틀란,과테말라,,,,LIGHT
+907,1,나이리 힐 케냐,케냐,,,,LIGHT
+908,1,에티오피아 니구세 젬레다 무데 내추럴,에티오피아,Hayisa Village,,Natural,LIGHT
+909,1,케냐 키암부 AA,케냐,,,,LIGHT
+910,1,에티오피안 내추럴 구지 우라가 G1 롯 20-05,에티오피아,,,Natural,LIGHT
+911,1,파나마 라 후아카,파나마,,,Natural,MEDIUM
+912,1,콜롬비아 후일라 에스피리투 블랑 게이샤 세미워시 아나로빅,콜롬비아,,Geisha,Anaerobic,LIGHT
+913,1,보루 바탁 수마트라,인도네시아,,,,LIGHT
+914,1,콜롬비아 시드라 내추럴 시그니처 셀렉션,콜롬비아,,Sidra,Natural,LIGHT
+915,1,라 레포르마 엘살바도르 내추럴,엘살바도르,Calzontes Arriba,Bourbon,Natural,LIGHT
+916,1,카우 말로락틱 내추럴,하와이,,,Malolactic Natural,LIGHT
+917,1,대만 내추럴 알리산 주오-우 게이샤,대만,,Geisha,Natural,LIGHT
+918,1,파나마 아시엔다 라 에스메랄다 포르톤 5N49 게샤 내추럴,파나마,Hacienda La Esmeralda,Gesha,Natural,LIGHT
+919,1,에티오피아 예가체프 G1 이디도 내추럴,에티오피아,,,Natural,LIGHT
+920,1,말레이시아 사바 허니,말레이시아,,,Honey,LIGHT
+921,1,갈라파고스 라 토르투가,에콰도르,,,,LIGHT
+922,1,파푸아뉴기니 바로이다 내추럴,파푸아뉴기니,,,Natural,LIGHT
+923,1,케냐 키마루리,케냐,,,,LIGHT
+924,1,푸나 아라카와 에스테이트 락틱 내추럴,하와이,Puna Arakawa Estate,,Lactic Natural,LIGHT
+925,1,우간다 시피 폴스 스테이션 아나로빅 내추럴,우간다,Sipi Falls Station,,Anaerobic,LIGHT
+926,1,수마트라 케티아라,인도네시아,,,Wet-Hulled,LIGHT
+927,1,페루 탐보파타,페루,,,,MEDIUM
+928,1,에티오피아 구지 우라가 모레 플로랄 쿠둠 내추럴,에티오피아,,,Natural,LIGHT
+929,1,에티오피아 하이사 올로초 로트 6,에티오피아,,,Natural,LIGHT
+930,1,에티오피아 예가체프 첼베사,에티오피아,,,Washed,LIGHT
+931,1,워카 사카로 에티오피아,에티오피아,,,Washed,LIGHT
+932,1,오로라 프로젝트,과테말라,,,,LIGHT
+933,1,타이완 내추럴 알리산 칭예 농장,타이완,Ching-Ye Farm,,Natural,LIGHT
+934,1,에티오피아 케라모 내추럴,에티오피아,,,Natural,LIGHT
+935,1,브라질 빌라 보아 아나에로빅 내추럴,브라질,,,Anaerobic,LIGHT
+936,1,다크 텍사스 트위스트,에티오피아; 수마트라,,,,MEDIUM
+937,1,콜롬비아 핀카 엘 파라이소 로즈 티,콜롬비아,Finca El Paraiso,,Anaerobic,LIGHT
+938,1,바잇 알랄 커뮤니티,예멘,,,,LIGHT
+939,1,세로 아줄 게이샤,콜롬비아,,Gesha,,LIGHT
+940,1,발레 마운틴 내추럴 에티오피아,에티오피아,,,Natural,LIGHT
+941,1,프라이빗 레저베 코스타리카 나란호,코스타리카,,,,MEDIUM
+942,1,파나마 에스메랄다 수페르 마리오 6 게이샤,파나마,Hacienda La Esmeralda,Geisha,Washed,LIGHT
+943,1,엘살바도르 핀카 엘 세로 파카마라 블랙 허니,엘살바도르,Finca El Cerro,Pacamara,Black Honey,LIGHT
+944,1,르완다 니야루지자 스테이션,르완다,Nyarusiza Station,,,LIGHT
+945,1,코나 모카,하와이,,Mocca,,LIGHT
+946,1,에티오피아 벤티 넨카 드라이 프로세스,에티오피아,,,Dry Process,LIGHT
+947,1,마마 카타 모키타,파나마,,Mokkita,,LIGHT
+948,1,콜롬비아 루이스 알베르토 몬토야 안티오키아,콜롬비아,,,,LIGHT
+949,1,잠비아 카테시 내추럴 프로세스,잠비아,,,Natural,LIGHT
+950,1,콜롬비아 핑크 버본 핀카 엘 차파로테,콜롬비아,Finca El Chaparote,Pink Bourbon,,LIGHT
+951,1,카우 샴페인 내추럴,하와이,,,Natural,LIGHT
+952,1,케냐 나이리 힐 팜 AA TOP,케냐,Nyeri Hill Farm,,,LIGHT
+953,1,케벨레 빌리지 에티오피아,에티오피아,,,Washed,LIGHT
+954,1,과테말라 파카라 마라 내츄럴,과테말라,,Pacamara,Natural,LIGHT
+955,1,라요 델 솔 페루,페루,null,null,null,LIGHT
+956,1,코스타리카 카넷 뮤지션 모차르트,코스타리카,,,,LIGHT
+957,1,수마트라 판탄 무사라,인도네시아,,,,LIGHT
+958,1,케냐 기타레 AA 탑,케냐,,,,LIGHT
+959,1,카우 레드 카투라 피베리,하와이,,Caturra,,LIGHT
+960,1,케냐 키리냐가 바라귀 카룸안디 AA,케냐,,,,LIGHT
+961,1,에티오피아 코체레 아레파사 워시드 G1,에티오피아,,,Washed,LIGHT
+962,1,니카라과 피카 이데알리스타,니카라과,Finca Idealista,,,LIGHT
+963,1,케냐 가타이티 AA,케냐,,,,LIGHT
+964,1,카우 옐로우 카투라 샴페인 내추럴,하와이,,Caturra,Natural,LIGHT
+965,1,엘살바도르 핀카 엘 레티로 수단 루메 내추럴,엘살바도르,Finca El Retiro,Sudan Rume,Natural,LIGHT
+966,1,에티오피아 귀지 케르차 G2,에티오피아,,,Natural,LIGHT
+967,1,바로카 허니 수마트라,인도네시아,,,Honey,LIGHT
+968,1,과테말라 코페아 다이버사 버본 레이,과테말라,,Bourbon,,LIGHT
+969,1,콜롬비아 안티오키아 라 파파야 부르봉 치로소,콜롬비아,,Bourbon,Washed,LIGHT
+970,1,에콰도르 COE 1위 아라시 티피카 메히라도 워시드,에콰도르,,Typica,Washed,LIGHT
+971,1,카라모 에티오피아 시다마 내추럴 G1,에티오피아,,,Natural,LIGHT
+972,1,카라모 에티오피아,에티오피아,,,Natural,LIGHT
+973,1,케냐 기키리마 키부구,케냐,,,,LIGHT
+974,1,에티오피아 체레체레 예가체프,에티오피아,,,Natural,LIGHT
+975,1,리무 에티오피아 내추럴,에티오피아,,,Natural,LIGHT
+976,1,부나 보카 #1,에티오피아,,,Washed,LIGHT
+977,1,하라아즈 레드,예멘,,,,LIGHT
+978,1,구지 에티오피아 워시드,에티오피아,,,Washed,LIGHT
+979,1,부룬디 키빙고,부룬디,,,,LIGHT
+980,1,과테말라 로스 산토스,과테말라,,,,LIGHT
+981,1,산호세 델 라고 과테말라,과테말라,,,,LIGHT
+982,1,DR 콩고 무안가노 협동조합 남키부,콩고 민주 공화국,,,,LIGHT
+983,1,니카라과 여성 생산자,니카라과,La Fundadora,,,LIGHT
+984,1,케냐 바라귀 구아마 AB,케냐,,,,LIGHT
+985,1,사바니야 데 알라후엘라 커피,코스타리카,,,,LIGHT
+986,1,5a 포니엔테,과테말라,,,,LIGHT
+987,1,과테말라 토크이아,과테말라,,,Washed,LIGHT
+988,1,에티오피아 시다모 이르갈렘,에티오피아,,,Natural,LIGHT
+989,1,티라 내추럴 코스타리카,코스타리카,,,Natural,LIGHT
+990,1,코나 클래식,하와이,,,,LIGHT
+991,1,수마트라 가요 G1 트리플 픽드 로트 005,인도네시아,,,,LIGHT
+992,1,에티오피아 시다마 아르베고나 두완초 협동조합 G1,에티오피아,,,Honey,LIGHT
+993,1,티오 코네호 콜롬비아,콜롬비아,,,Washed,LIGHT
+994,1,코스타리카 볼칸 아줄 산 이시드로 레드 허니,코스타리카,,,Red Honey,LIGHT
+995,1,에티오피아 드라이 프로세스 벤티 넨카,에티오피아,,,Natural,LIGHT
+996,1,탄자니아 응길라 에스테이트 SL28,탄자니아,Ngila Estate,SL28,,LIGHT
+997,1,타나마 도메니코 셀리 보레로 아네로빅 내추럴,푸에르토리코,,,Anaerobic,LIGHT
+998,1,에티오피아 함벨라 1 유기농 내추럴 알라카,에티오피아,,,Natural,LIGHT
+999,1,카우 레드 카투아이 피보리,하와이,,Catuai,,LIGHT
+1000,1,케냐 가톰보야,케냐,,,,LIGHT

@@ -1,0 +1,60 @@
+{
+  "start_time": "2025-12-17T22:04:19.199302",
+  "queries": [
+    {
+      "query": "강남 스페셜티 커피",
+      "found": 10,
+      "added": 1
+    }
+  ],
+  "errors": [
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 0,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_0.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 1,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_1.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 2,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_2.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 4,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_4.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 5,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_5.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 6,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_6.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 7,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_7.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 8,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_8.html'"
+    },
+    {
+      "query": "강남 스페셜티 커피",
+      "index": 9,
+      "error": "[Errno 2] No such file or directory: 'data/debug_source_9.html'"
+    }
+  ],
+  "end_time": "2025-12-17T22:06:32.610699",
+  "total_stores": 1,
+  "total_menus": 10
+}
