@@ -209,17 +209,7 @@ def generate_insert_sql(df: pd.DataFrame, output_path: Path):
             values.append(val)
 
         f.write(",\n".join(values))
-        f.write("\nON DUPLICATE KEY UPDATE\n")
-        f.write("    acidity = VALUES(acidity),\n")
-        f.write("    body = VALUES(body),\n")
-        f.write("    sweetness = VALUES(sweetness),\n")
-        f.write("    bitterness = VALUES(bitterness),\n")
-        f.write("    aroma = VALUES(aroma),\n")
-        f.write("    flavor = VALUES(flavor),\n")
-        f.write("    aftertaste = VALUES(aftertaste),\n")
-        f.write("    total_score = VALUES(total_score),\n")
-        f.write("    roast_level = VALUES(roast_level),\n")
-        f.write("    updated_at = CURRENT_TIMESTAMP;\n")
+        f.write(";\n")
 
 
 def main():

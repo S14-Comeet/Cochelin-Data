@@ -1003,15 +1003,4 @@ INSERT INTO bean_scores (
     (997, 8, 8, 8, 2, 9, 9, 8, 92, 'LIGHT'),
     (998, 8, 8, 7, 3, 9, 9, 8, 92, 'LIGHT'),
     (999, 9, 9, 6, 3, 9, 9, 8, 94, 'LIGHT'),
-    (1000, 9, 9, 6, 3, 9, 9, 8, 94, 'LIGHT')
-ON DUPLICATE KEY UPDATE
-    acidity = VALUES(acidity),
-    body = VALUES(body),
-    sweetness = VALUES(sweetness),
-    bitterness = VALUES(bitterness),
-    aroma = VALUES(aroma),
-    flavor = VALUES(flavor),
-    aftertaste = VALUES(aftertaste),
-    total_score = VALUES(total_score),
-    roast_level = VALUES(roast_level),
-    updated_at = CURRENT_TIMESTAMP;
+    (1000, 9, 9, 6, 3, 9, 9, 8, 94, 'LIGHT');
