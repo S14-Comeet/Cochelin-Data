@@ -132,7 +132,7 @@ def transform_bean_scores(scores: pd.DataFrame, beans: pd.DataFrame, flavors: pd
         flavor_tags = list(flavor_ids) if flavor_ids else None
 
         results.append({
-            "bean_id": bean_id,
+            "bean_id": int(bean_id),
             "acidity": int(round(row["acidity"])),
             "body": int(round(row["body"])),
             "sweetness": sweetness,
@@ -143,8 +143,6 @@ def transform_bean_scores(scores: pd.DataFrame, beans: pd.DataFrame, flavors: pd
             "total_score": int(row["rating"]),
             "roast_level": roast_level,
             "flavor_tags": str(flavor_tags) if flavor_tags else None,
-            "data_source": "EXTERNAL_CSV",
-            "confidence_score": 0.9,
         })
 
     return pd.DataFrame(results)
@@ -193,13 +191,11 @@ def validate_data(df: pd.DataFrame) -> bool:
 def generate_insert_sql(df: pd.DataFrame, output_path: Path):
     """INSERT SQL 문 생성"""
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write("-- bean_scores 테이블 데이터 임포트\n")
-        f.write("-- 생성일: 자동 생성\n\n")
+        f.write("-- bean_scores 테이블 데이터 임포트\n\n")
 
         f.write("INSERT INTO bean_scores (\n")
         f.write("    bean_id, acidity, body, sweetness, bitterness,\n")
-        f.write("    aroma, flavor, aftertaste, total_score,\n")
-        f.write("    roast_level, data_source, confidence_score\n")
+        f.write("    aroma, flavor, aftertaste, total_score, roast_level\n")
         f.write(") VALUES\n")
 
         values = []
@@ -208,7 +204,7 @@ def generate_insert_sql(df: pd.DataFrame, output_path: Path):
                 f"    ({row['bean_id']}, {row['acidity']}, {row['body']}, "
                 f"{row['sweetness']}, {row['bitterness']}, {row['aroma']}, "
                 f"{row['flavor']}, {row['aftertaste']}, {row['total_score']}, "
-                f"'{row['roast_level']}', '{row['data_source']}', {row['confidence_score']})"
+                f"'{row['roast_level']}')"
             )
             values.append(val)
 

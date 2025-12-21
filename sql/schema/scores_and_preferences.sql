@@ -76,11 +76,7 @@ CREATE TABLE IF NOT EXISTS bean_scores
     CONSTRAINT chk_aftertaste CHECK (aftertaste BETWEEN 1 AND 10),
     CONSTRAINT chk_total_score CHECK (total_score BETWEEN 0 AND 100),
 
-    FOREIGN KEY (bean_id) REFERENCES beans (id) ON DELETE CASCADE,
-
-    -- 필터링 쿼리 최적화용 복합 인덱스
-    INDEX idx_filtering (roast_level, acidity, body, total_score),
-    INDEX idx_total_score (total_score DESC)
+    FOREIGN KEY (bean_id) REFERENCES beans (id) ON DELETE CASCADE
 );
 
 
