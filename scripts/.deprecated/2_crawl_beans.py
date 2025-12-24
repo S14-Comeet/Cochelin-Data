@@ -40,7 +40,7 @@ except ImportError:
 # 설정
 # ============================================================================
 
-DATA_DIR = Path(__file__).parent / 'data'
+DATA_DIR = Path(__file__).parent.parent / 'data'
 MAX_BEANS = 500  # 최대 수집할 원두 수
 SCROLL_PAUSE = 2  # 스크롤 후 대기 시간
 
@@ -63,7 +63,7 @@ VALID_COUNTRIES = [
 
 def load_flavors_rag():
     """flavors_rag.json에서 향미 데이터 로드"""
-    rag_path = Path(__file__).parent / 'flavors_rag.json'
+    rag_path = Path(__file__).parent.parent / 'data' / 'debug' / 'flavors_rag.json'
     with open(rag_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
