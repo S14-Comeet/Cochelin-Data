@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 # 경로 설정
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent.parent / "data"
 STORES_DIR = DATA_DIR / "stores"
 BEANS_DIR = DATA_DIR / "beans"
 

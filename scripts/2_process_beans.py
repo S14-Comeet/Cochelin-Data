@@ -37,7 +37,7 @@ except ImportError:
 # 설정
 # ============================================================================
 
-DATA_DIR = Path(__file__).parent / 'data'
+DATA_DIR = Path(__file__).parent.parent / 'data'
 INPUT_FILE = DATA_DIR / 'beans' / 'coffee_clean.csv'
 SAVE_INTERVAL = 10  # 중간 저장 간격
 DEFAULT_ROASTERY_ID = 1  # 임의의 로스터리 ID (DB에 해당 ID의 더미 데이터가 있어야 함)
@@ -80,7 +80,7 @@ COFFEE_COUNTRIES = [
 
 def load_flavors_rag():
     """flavors_rag.json에서 향미 데이터 로드"""
-    rag_path = Path(__file__).parent / 'flavors_rag.json'
+    rag_path = Path(__file__).parent.parent / 'data' / 'debug' / 'flavors_rag.json'
     with open(rag_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 

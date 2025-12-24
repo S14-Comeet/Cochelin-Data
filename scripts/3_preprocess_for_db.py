@@ -125,7 +125,7 @@ def update_stores_with_roastery_id(stores_df: pd.DataFrame, brand_to_roastery_id
 
 def main():
     # 경로 설정
-    data_dir = Path(__file__).parent / 'data'
+    data_dir = Path(__file__).parent.parent / 'data'
     stores_path = data_dir / 'stores.csv'
 
     print("=" * 50)

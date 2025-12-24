@@ -11,7 +11,7 @@ import re
 from collections import Counter
 
 # 경로 설정
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent
 DATA_DIR = PROJECT_ROOT / "data" / "final"
 OUTPUT_DIR = PROJECT_ROOT / "sql"
 

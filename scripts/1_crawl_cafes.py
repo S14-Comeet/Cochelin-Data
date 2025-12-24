@@ -21,6 +21,7 @@ import csv
 import os
 import random
 from datetime import datetime
+from pathlib import Path
 
 # 검색어 목록 (서울 전역)
 SEARCH_QUERIES = [
@@ -122,7 +123,7 @@ MIN_COFFEE_PRICE = 2000
 MAX_COFFEE_PRICE = 15000
 
 # ============ 결과 저장 경로 ============
-OUTPUT_DIR = "crawlers_v3/data"
+OUTPUT_DIR = str(Path(__file__).parent.parent / "data" / "raw")
 STORES_FILE = "stores.csv"
 MENUS_FILE = "menus.csv"
 CRAWL_LOG_FILE = "crawl_log.json"
